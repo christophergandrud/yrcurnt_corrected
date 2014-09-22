@@ -39,3 +39,4 @@ The full list of changes are given in the following table.
 | Slovenia | Use parliamentary rather than (figurehead) presidential elections.|
 | Slovakia | Corrects missing 2012 election.                                   |
 | Spain   | Corrects missing 1989, 1996, and 2011 elections.                   |
+| United Kingdom | Corrected missing 2001 and 2005 elections.                  |

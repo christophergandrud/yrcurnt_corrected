@@ -42,18 +42,6 @@
 "BEL","Belgium",2011,3
 "BEL","Belgium",2012,2
 "BEL","Belgium",2013,1
-"DEU","Germany",2002,0
-"DEU","Germany",2003,3
-"DEU","Germany",2004,2
-"DEU","Germany",2005,0
-"DEU","Germany",2006,3
-"DEU","Germany",2007,2
-"DEU","Germany",2008,1
-"DEU","Germany",2009,0
-"DEU","Germany",2010,3
-"DEU","Germany",2011,2
-"DEU","Germany",2012,1
-"DEU","Germany",2013,0
 "DNK","Denmark",2001,0
 "DNK","Denmark",2002,3
 "DNK","Denmark",2003,2
@@ -67,31 +55,6 @@
 "DNK","Denmark",2011,0
 "DNK","Denmark",2012,3
 "DNK","Denmark",2013,2
-"ESP","Spain",1989,0
-"ESP","Spain",1990,3
-"ESP","Spain",1991,2
-"ESP","Spain",1992,1
-"ESP","Spain",1993,0
-"ESP","Spain",1994,3
-"ESP","Spain",1995,2
-"ESP","Spain",1996,0
-"ESP","Spain",1997,3
-"ESP","Spain",1998,2
-"ESP","Spain",1999,1
-"ESP","Spain",2000,0
-"ESP","Spain",2001,3
-"ESP","Spain",2002,2
-"ESP","Spain",2003,1
-"ESP","Spain",2004,0
-"ESP","Spain",2005,3
-"ESP","Spain",2006,2
-"ESP","Spain",2007,1
-"ESP","Spain",2008,0
-"ESP","Spain",2009,3
-"ESP","Spain",2010,2
-"ESP","Spain",2011,0
-"ESP","Spain",2012,3
-"ESP","Spain",2013,2
 "EST","Estonia",1992,0
 "EST","Estonia",1993,3
 "EST","Estonia",1994,2
@@ -114,6 +77,18 @@
 "EST","Estonia",2011,0
 "EST","Estonia",2012,0
 "EST","Estonia",2013,0
+"DEU","Germany",2002,0
+"DEU","Germany",2003,3
+"DEU","Germany",2004,2
+"DEU","Germany",2005,0
+"DEU","Germany",2006,3
+"DEU","Germany",2007,2
+"DEU","Germany",2008,1
+"DEU","Germany",2009,0
+"DEU","Germany",2010,3
+"DEU","Germany",2011,2
+"DEU","Germany",2012,1
+"DEU","Germany",2013,0
 "GRC","Greece",2004,0
 "GRC","Greece",2005,3
 "GRC","Greece",2006,2
@@ -135,6 +110,18 @@
 "ITA","Italy",2011,2
 "ITA","Italy",2012,1
 "ITA","Italy",2013,0
+"LVA","Latvia",2002,0
+"LVA","Latvia",2003,3
+"LVA","Latvia",2004,2
+"LVA","Latvia",2005,1
+"LVA","Latvia",2006,0
+"LVA","Latvia",2007,3
+"LVA","Latvia",2008,2
+"LVA","Latvia",2009,1
+"LVA","Latvia",2010,0
+"LVA","Latvia",2011,0
+"LVA","Latvia",2012,3
+"LVA","Latvia",2013,2
 "LTU","Lithuania",1992,0
 "LTU","Lithuania",1993,3
 "LTU","Lithuania",1994,2
@@ -157,18 +144,6 @@
 "LTU","Lithuania",2011,1
 "LTU","Lithuania",2012,0
 "LTU","Lithuania",2013,3
-"LVA","Latvia",2002,0
-"LVA","Latvia",2003,3
-"LVA","Latvia",2004,2
-"LVA","Latvia",2005,1
-"LVA","Latvia",2006,0
-"LVA","Latvia",2007,3
-"LVA","Latvia",2008,2
-"LVA","Latvia",2009,1
-"LVA","Latvia",2010,0
-"LVA","Latvia",2011,0
-"LVA","Latvia",2012,3
-"LVA","Latvia",2013,2
 "NLD","Netherlands",2002,0
 "NLD","Netherlands",2003,0
 "NLD","Netherlands",2004,3
@@ -255,3 +230,45 @@
 "SVN","Slovenia",2011,0
 "SVN","Slovenia",2012,3
 "SVN","Slovenia",2013,2
+"ESP","Spain",1989,0
+"ESP","Spain",1990,3
+"ESP","Spain",1991,2
+"ESP","Spain",1992,1
+"ESP","Spain",1993,0
+"ESP","Spain",1994,3
+"ESP","Spain",1995,2
+"ESP","Spain",1996,0
+"ESP","Spain",1997,3
+"ESP","Spain",1998,2
+"ESP","Spain",1999,1
+"ESP","Spain",2000,0
+"ESP","Spain",2001,3
+"ESP","Spain",2002,2
+"ESP","Spain",2003,1
+"ESP","Spain",2004,0
+"ESP","Spain",2005,3
+"ESP","Spain",2006,2
+"ESP","Spain",2007,1
+"ESP","Spain",2008,0
+"ESP","Spain",2009,3
+"ESP","Spain",2010,2
+"ESP","Spain",2011,0
+"ESP","Spain",2012,3
+"ESP","Spain",2013,2
+"GBR","United Kingdom",1997,0
+"GBR","United Kingdom",1998,4
+"GBR","United Kingdom",1999,3
+"GBR","United Kingdom",2000,2
+"GBR","United Kingdom",2001,0
+"GBR","United Kingdom",2002,4
+"GBR","United Kingdom",2003,3
+"GBR","United Kingdom",2004,2
+"GBR","United Kingdom",2005,0
+"GBR","United Kingdom",2006,4
+"GBR","United Kingdom",2007,3
+"GBR","United Kingdom",2008,2
+"GBR","United Kingdom",2009,1
+"GBR","United Kingdom",2010,0
+"GBR","United Kingdom",2011,4
+"GBR","United Kingdom",2012,3
+"GBR","United Kingdom",2013,2

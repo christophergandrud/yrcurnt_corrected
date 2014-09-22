@@ -22,7 +22,7 @@ eu27 <- c("Austria", "Belgium", "Bulgaria", "Cyprus", "CzechRepublic",
           "Denmark", "Estonia", "Finland", "France", "Germany", "Greece", 
           "Hungary", "Ireland", "Italy", "Latvia", "Lithuania", "Luxembourg", 
           "Malta", "Netherlands", "Poland", "Portugal", "Romania", "Slovakia",
-          "Slovenia", "Spain", "Sweden", "UnitedKingdom")
+          "Slovenia", "Spain", "Sweden", "United Kingdom")
 
 YearsLeft <- YearsLeft[YearsLeft$country %in% eu27, ]
 YearsLeft <- YearsLeft[order(YearsLeft$country, YearsLeft$year), ]
@@ -63,6 +63,7 @@ YearsLeft$yrcurnt[YearsLeft$yrcurnt == -999] <- NA
 # Also in the original measure (presidental) elections after 2002 were not coded 0.
 ## Sloviakia 2012 election not recorded.
 ## Spain 1989, 1996, and 2011 elections not recorded.
+## United Kingdom missing 2001 and 2005 elections.
 
 ## Not corrected, but potentially problematic:
 # Hungarian, Romanian elections during the communist period are coded, not NA.

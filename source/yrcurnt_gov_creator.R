@@ -43,7 +43,7 @@ YearsLeft$yrcurnt[YearsLeft$yrcurnt == -999] <- NA
 ## Belgium 2010 incorrectly not coded 0 for the parliamentary election year.
 ## Only one election year (2005) in Denmark post-1998 is coded with a 0. 
 ## Estonian elections in 1995, 1999, 2003, 2007, 2011 not correctly classified. 
-# Also counting starts at 4, but should be 3 as there is a 3 year term limit.
+# Also counting starts at 4, but should be 3 as there is a 4 year term limit.
 ## German election in 2005 not coded 0.
 ## None of the three (2007, 2009, 2012) Greek elections from 2004 are coded as 0.
 ## Ireland election in 2011 not recorded.
@@ -73,10 +73,15 @@ YearsLeft$yrcurnt[YearsLeft$yrcurnt == -999] <- NA
 updated <- read.csv('data/yrcurnt_corrected.csv', stringsAsFactors = FALSE)
 comb <- merge(YearsLeft, updated, by = c('country', 'year'), all = TRUE)
 
+# Create complete merged/corrected yrcurnt
 for (i in 1:nrow(comb)){
     if (is.na(comb[i, 'yrcurnt_corrected'])){
         comb[i, 'yrcurnt_corrected'] <- comb[i, 'yrcurnt']
     }
 }
 
-comb <- MoveFront(comb, c('worldbank_code', 'iso2c')
+# Final clean
+comb <- MoveFront(comb, c('worldbank_code', 'iso2c'))
+
+# Save
+write.csv(comb, 'data/yrcurnt_original_corrected.csv', row.names = FALSE)

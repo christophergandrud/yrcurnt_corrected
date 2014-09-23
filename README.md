@@ -35,7 +35,9 @@ The original variable has a number of issues that make it problematic for studyi
 the effect of election timing on government policymaking. Primarily:
 
 - For a number of countries (e.g. Austria) the elections recorded are for a largely
-figurehead president. In these cases the current **yrcurnt** variable is not
+figurehead president. This can affect both when election is recorded and how many
+years until the next election as figurehead presidents often have longer terms than
+parliaments. In these cases the current **yrcurnt** variable is not
 a valid measure of *government* election timing.
 
     + It is not always clear how the original coders chose the chief executive
@@ -49,7 +51,7 @@ and the domestic policy agenda. These powers are most relevant for studying thin
 like public budgeting.
 
 - There are many instances where election years are not recorded as 0, as the
-coding scheme defines.  
+coding scheme defines.
 
 ## Updated Data
 
@@ -72,7 +74,7 @@ The full list of changes are given in the following table.
 | ------- | ------------------------------------------------------------------ |
 | Austria | Use parliamentary rather than (figurehead) presidential elections. |
 | Belgium | Corrects missing 2010 election year.                               |
-| Denmark | Corrects all post 1998 elections, which were not recorded as 0.    |
+| Denmark | Corrects missing 2001 and 2007 elections.                          |
 | Estonia | Corrects 1995, 1999, 2003, 2007, and 2011 elections. Also counting originally started at 4, but should start at 3 as there is a 4 year term limit (not 5). |
 | Germany | 2005 election not originally coded as 0.                           |
 | Greece  | Corrects missing 2007, 2009, 2012 election years.                  |
@@ -91,5 +93,15 @@ The full list of changes are given in the following table.
 ## Discussion
 
 17 of the 27 countries required some corrections. The bulk of these corrections
-were in the post-2000 period. Some countries, such as Denmark were recorded to have
-no election years from about the year 2000. The following figure 
+were in the post-2000 period. Many countries are simply missing elections in
+the 2000s period.
+
+The following figure plots the original **yrcurnt** value compared to the
+residual of the original and corrected values (e.g. original - corrected). A
+residual of 0 clearly indicates that an observation was not corrected.
+
+Positive residual values indicate that the original election timing value was
+larger than it should have been (the election was actually closer than originally
+measured) and vice versa for negative values.
+
+![plot of chunk unnamed-chunk-1](figure/unnamed-chunk-1.png)

@@ -17,9 +17,9 @@ that fiscal gimmickry is more common directly before elections (and in countries
 with weak fiscal transparency).
 
 Because the variable is so regularly turned to for testing how election timing affects
-governments' choices, it needs to be a reliable and valid measure. However, the
-variable in the current (2012) release has a number of issues that this repository
-hopes to correct.
+governments' choices, it is especially important that it be reliable and valid.
+However, the variable in the current (2012) release has a number of issues that
+this repository hopes to correct.
 
 ### Variable definition
 
@@ -33,6 +33,8 @@ executive's current term such that:
 
 The original variable has a number of issues that make it problematic for studying
 the effect of election timing on government policymaking. Primarily:
+
+#### Validity concerns
 
 - For a number of countries (e.g. Austria) the elections recorded are for a largely
 figurehead president. This can affect both when election is recorded and how many
@@ -49,6 +51,8 @@ a valid measure of *government* election timing.
 in a number of these cases (e.g. Romania), however, the PM is the clear leader of the government
 and the domestic policy agenda. These powers are most relevant for studying things
 like public budgeting.
+
+#### Reliability concerns
 
 - There are many instances where election years are not recorded as 0, as the
 coding scheme defines.
@@ -91,7 +95,7 @@ The full list of changes are given in the following table.
 | Spain   | Corrects missing 1989, 1996, and 2011 elections.                   |
 | United Kingdom | Corrected missing 2001 and 2005 elections.                  |
 
-## Discussion
+## Overview of changes
 
 17 of the 27 countries required some corrections. The bulk of these corrections
 were in the post-2000 period. Many countries are simply missing elections in

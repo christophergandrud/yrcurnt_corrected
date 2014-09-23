@@ -56,7 +56,8 @@ coding scheme defines.
 ## Updated Data
 
 A corrected version of the variable for EU 27 countries can be found in
-[data/yrcurnt_corrected.csv](data/yrcurnt_corrected.csv). A data file with both
+[data/yrcurnt_corrected.csv](data/yrcurnt_corrected.csv). This includes only updated
+observations. A data file with both full
 the original and corrected data can be found in [data/yrcurnt_original_corrected.csv](data/yrcurnt_original_corrected.csv).
 
 Election timing data from 1990 to the present was found at:

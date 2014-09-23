@@ -9,6 +9,7 @@
 # Load packages
 library(psData)
 library(DataCombine)
+library(countrycode)
 
 # Set working directory, change as needed.
 setwd('/git_repositories/yrcurnt_corrected/')
@@ -83,6 +84,7 @@ for (i in 1:nrow(comb)){
 
 # Final clean
 comb <- MoveFront(comb, c('worldbank_code', 'iso2c'))
-
+comb$worldbank_code <- countrycode(comb$country, origin = 'country.name', 
+                                   destination = 'wb')
 # Save
 write.csv(comb, 'data/yrcurnt_original_corrected.csv', row.names = FALSE)

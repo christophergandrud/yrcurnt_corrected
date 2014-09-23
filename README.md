@@ -56,7 +56,8 @@ coding scheme defines.
 ## Updated Data
 
 A corrected version of the variable for EU 27 countries can be found in
-[data/yrcurnt_corrected.csv](data/yrcurnt_corrected.csv). A data file with both
+[data/yrcurnt_corrected.csv](data/yrcurnt_corrected.csv). This includes only updated
+observations. A data file with both full
 the original and corrected data can be found in [data/yrcurnt_original_corrected.csv](data/yrcurnt_original_corrected.csv).
 
 Election timing data from 1990 to the present was found at:
@@ -100,8 +101,4 @@ The following figure plots the original **yrcurnt** value compared to the
 residual of the original and corrected values (e.g. original - corrected). A
 residual of 0 clearly indicates that an observation was not corrected.
 
-Positive residual values indicate that the original election timing value was
-larger than it should have been (the election was actually closer than originally
-measured) and vice versa for negative values.
-
-![plot of chunk unnamed-chunk-1](figure/unnamed-chunk-1.png)
+![plot of chunk unnamed-chunk-1](figure/unnamed-chunk-1.png) 

@@ -1,6 +1,10 @@
 Corrected Election Timing Variable (yrcurnt)
 =================
 
+Christopher Gandrud
+
+23 September 2014
+
 Corrects errors and inconsistencies in the
 [Database of Political Institution's](http://go.worldbank.org/2EAGGLRZ40) (2012)
 years to election (**yrcurnt**) variable.
@@ -24,10 +28,10 @@ this repository hopes to correct.
 ### Variable definition
 
 The
-[2012 codebook](http://siteresources.worldbank.org/INTRES/Resources/469232-1107449512766/DPI2012_Codebook2.pdf) classifies the **yrcurnt** variable as the years left in the cheif
+[2012 codebook](http://siteresources.worldbank.org/INTRES/Resources/469232-1107449512766/DPI2012_Codebook2.pdf) classifies the **yrcurnt** variable as the years left in the chief
 executive's current term such that:
 
-> ''a “0” is scored in an election year, and n-1 in the year after an election, where n is the length of the term. In countries where early elections can be called, YRCURNT is set to the de jure term limit or schedule of elections, but resets in the case of early elections.''
+> ''a '0' is scored in an election year, and n-1 in the year after an election, where n is the length of the term. In countries where early elections can be called, YRCURNT is set to the de jure term limit or schedule of elections, but resets in the case of early elections.''
 
 ### Issues in the 2012 data
 
@@ -64,10 +68,8 @@ A corrected version of the variable for EU 27 countries can be found in
 observations. A data file with both full
 the original and corrected data can be found in [data/yrcurnt_original_corrected.csv](data/yrcurnt_original_corrected.csv).
 
-Election timing data from 1990 to the present was found at:
-
-- [European Election Database](http://www.nsd.uib.no/european_election_database/)
-
+Election timing data from 1990 to the present was found at the
+[European Election Database](http://www.nsd.uib.no/european_election_database/)
 These election dates were corroborated with data from Wikipedia. Election dates from
 before 1990 are also from Wikipedia.
 
@@ -81,7 +83,7 @@ The full list of changes are given in the following table.
 | Belgium | Corrects missing 2010 election year.                               |
 | Denmark | Corrects missing 2001 and 2007 elections.                          |
 | Estonia | Corrects 1995, 1999, 2003, 2007, and 2011 elections. Also counting originally started at 4, but should start at 3 as there is a 4 year term limit (not 5). |
-| Germany | 2005 election not originally coded as 0.                           |
+| Germany | Corrects missing 2005 election.                                    |
 | Greece  | Corrects missing 2007, 2009, 2012 election years.                  |
 | Ireland | Corrects missing 2011 election.                                    |
 | Italy   | Corrects missing 2008 election.                                    |

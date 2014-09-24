@@ -46,11 +46,6 @@ years until the next election as figurehead presidents often have longer terms t
 parliaments. In these cases the current **yrcurnt** variable is not
 a valid measure of *government* election timing.
 
-    + It is not always clear how the original coders chose the chief executive
-    election. For example, while the Austrian figurehead presidential elections
-    are recorded, in Germany Bundestag, not figurehead presidential elections
-    are used.
-
 - Some countries are less clear cut in that they are semi-presidential. Nonetheless,
 in a number of these cases (e.g. Romania), however, the PM is the clear leader of the government
 and the domestic policy agenda. These powers are most relevant for studying things

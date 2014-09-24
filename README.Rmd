@@ -3,7 +3,7 @@ Corrected Election Timing Variable (yrcurnt)
 
 Christopher Gandrud
 
-23 September 2014
+24 September 2014
 
 Corrects errors and inconsistencies in the
 [Database of Political Institution's](http://go.worldbank.org/2EAGGLRZ40) (2012)
@@ -25,10 +25,14 @@ governments' choices, it is especially important that it be reliable and valid.
 However, the variable in the current (2012) release has a number of issues that
 this repository hopes to correct.
 
+Note that Alt et al.'s substantive findings hole up when using the correct data,
+thought the estimated magnitudes of the effects are reduced somewhat.
+
 ### Variable definition
 
 The
-[2012 codebook](http://siteresources.worldbank.org/INTRES/Resources/469232-1107449512766/DPI2012_Codebook2.pdf) classifies the **yrcurnt** variable as the years left in the chief
+[2012 codebook](http://siteresources.worldbank.org/INTRES/Resources/469232-1107449512766/DPI2012_Codebook2.pdf)
+classifies the **yrcurnt** variable as the years left in the chief
 executive's current term such that:
 
 > ''a '0' is scored in an election year, and n-1 in the year after an election, where n is the length of the term. In countries where early elections can be called, YRCURNT is set to the de jure term limit or schedule of elections, but resets in the case of early elections.''

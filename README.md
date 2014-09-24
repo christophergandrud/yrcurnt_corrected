@@ -105,8 +105,8 @@ were in the post-2000 period. Many countries are simply missing elections in
 the 2000s period.
 
 The following figure plots the original **yrcurnt** value compared to the
-residual of the original and corrected values (e.g. original - corrected). The points
-are jittered to make them easier to see. A residual of 0 clearly indicates 
+residual of the original and corrected values (e.g. original - corrected). The
+points are jittered to make them easier to see. A residual of 0 clearly indicates
 that an observation was not corrected.
 
-![plot of chunk unnamed-chunk-1](figure/unnamed-chunk-1.png) 
+![plot of chunk original-corrected-residual](figure/original-corrected-residual.png) 

@@ -5,6 +5,8 @@ Christopher Gandrud
 
 24 September 2014
 
+[![DOI](https://zenodo.org/badge/5350/christophergandrud/yrcurnt_corrected.png)](http://dx.doi.org/10.5281/zenodo.11852)
+
 Corrects errors and inconsistencies in the
 [Database of Political Institution's](http://go.worldbank.org/2EAGGLRZ40) (2012)
 years to election (**yrcurnt**) variable.

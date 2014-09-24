@@ -27,8 +27,8 @@ governments' choices, it is especially important that it be reliable and valid.
 However, the variable in the current (2012) release has a number of issues that
 this repository hopes to correct.
 
-Note that Alt et al.'s substantive findings hole up when using the correct data,
-thought the estimated magnitudes of the effects are reduced somewhat.
+Note that Alt et al.'s substantive findings hold up when using the correct data,
+though the estimated magnitudes of the effects are reduced somewhat.
 
 ### Variable definition
 

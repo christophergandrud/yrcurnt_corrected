@@ -60,7 +60,7 @@ like public budgeting.
 #### Reliability concerns
 
 - There are many instances where election years are not recorded as 0, as the
-coding scheme defines.
+coding scheme defines. See the table below for details.
 
 ## Updated Data
 

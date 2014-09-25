@@ -28,7 +28,8 @@ However, the variable in the current (2012) release has a number of issues that
 this repository hopes to correct.
 
 Note that Alt et al.'s substantive findings hold up when using the correct data,
-though the estimated magnitudes of the effects are reduced somewhat.
+though the estimated magnitudes of the effects are reduced somewhat. See
+the [replication repository](https://github.com/christophergandrud/Alt_et_al_2014_Replication) for more details.
 
 ### Variable definition
 
@@ -53,14 +54,14 @@ parliaments. In these cases the current **yrcurnt** variable is not
 a valid measure of *government* election timing.
 
 - Some countries are less clear cut in that they are semi-presidential. Nonetheless,
-in a number of these cases (e.g. Romania), however, the PM is the clear leader of the government
+in a number of these cases (e.g. Romania), the PM is the clear leader of the government
 and the domestic policy agenda. These powers are most relevant for studying things
 like public budgeting.
 
 #### Reliability concerns
 
 - There are many instances where election years are not recorded as 0, as the
-coding scheme defines.
+coding scheme defines. See the table below for details.
 
 ## Updated Data
 

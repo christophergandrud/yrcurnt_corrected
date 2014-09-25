@@ -46,10 +46,10 @@ the effect of election timing on government policymaking. Primarily:
 
 #### Validity concerns
 
-- For a number of countries (e.g. Austria) the elections recorded are for a largely
-figurehead president. This can affect both when election is recorded and how many
-years until the next election as figurehead presidents often have longer terms than
-parliaments. In these cases the current **yrcurnt** variable is not
+- For Austria the elections recorded are for a largely
+figurehead president. This can affect both when elections are recorded and how many
+years are recorded until the next election, as the figurehead president has a longer term
+than the parliament. In this cases the 2012 version of the variable is not
 a valid measure of *government* election timing.
 
 - Some countries are less clear cut in that they are semi-presidential. Nonetheless,

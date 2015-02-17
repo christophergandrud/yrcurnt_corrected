@@ -3,8 +3,6 @@ Corrected Election Timing Variable (yrcurnt)
 
 Christopher Gandrud
 
-24 September 2014
-
 [![DOI](https://zenodo.org/badge/5350/christophergandrud/yrcurnt_corrected.png)](http://dx.doi.org/10.5281/zenodo.11852)
 
 Corrects errors and inconsistencies in the
@@ -24,8 +22,8 @@ with weak fiscal transparency).
 
 Because the variable is so regularly turned to for testing how election timing affects
 governments' choices, it is especially important that it be reliable and valid.
-However, the variable in the current (2012) release has a number of issues that
-this repository hopes to correct.
+However, the variable in the current (2013) release has a number of issues that
+this post highlights and corrects.
 
 Note that Alt et al.'s substantive findings hold up when using the correct data,
 though the estimated magnitudes of the effects are reduced somewhat. See
@@ -34,13 +32,13 @@ the [replication repository](https://github.com/christophergandrud/Alt_et_al_201
 ### Variable definition
 
 The
-[2012 codebook](http://siteresources.worldbank.org/INTRES/Resources/469232-1107449512766/DPI2012_Codebook2.pdf)
+[codebook](http://siteresources.worldbank.org/INTRES/Resources/469232-1107449512766/DPI2012_Codebook2.pdf)
 classifies the **yrcurnt** variable as the years left in the chief
 executive's current term such that:
 
 > ''a '0' is scored in an election year, and n-1 in the year after an election, where n is the length of the term. In countries where early elections can be called, YRCURNT is set to the de jure term limit or schedule of elections, but resets in the case of early elections.''
 
-### Issues in the 2012 data
+### Issues in the data
 
 The original variable has a number of issues that make it problematic for studying
 the effect of election timing on government policymaking. Primarily:
@@ -110,4 +108,4 @@ residual of the original and corrected values (e.g. original - corrected). The
 points are jittered to make them easier to see. A residual of 0 clearly indicates
 that an observation was not corrected.
 
-![plot of chunk original-corrected-residual](figure/original-corrected-residual.png) 
+![plot of chunk original-corrected-residual](figure/original-corrected-residual-1.png) 

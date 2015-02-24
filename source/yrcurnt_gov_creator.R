@@ -42,6 +42,10 @@ YearsLeft$yrcurnt[YearsLeft$yrcurnt == -999] <- NA
 #### Summary of changes
 ## Austrian parliamentary elections rather than figurehead president
 ## Belgium 2010 incorrectly not coded 0 for the parliamentary election year.
+## Incorrect election timing for the 1995 and 2000 elections. Also, incorrectly 
+## classifies 1991 as 4 years from the next election. Croatia gained 
+## independence in 1991 and the first elections were scheduled to be held the 
+## following year. So 1991 should be coded as 1.
 ## Only one election year (2005) in Denmark post-1998 is coded with a 0. 
 ## Estonian elections in 1995, 1999, 2003, 2007, 2011 not correctly classified. 
 # Also counting starts at 4, but should be 3 as there is a 4 year term limit.

@@ -2,7 +2,7 @@
 # Correct DPI yrcurnt years to elections variable to reflect government, not
 # executive elections (Europe Only)
 # Christopher Gandrud
-# 22 September 2014
+# 24 February 2015
 # MIT License
 #################
 
@@ -18,14 +18,14 @@ setwd('/git_repositories/yrcurnt_corrected/')
 YearsLeft <- DpiGet(vars = c('yrcurnt'), duplicates = 'drop', fromLast = TRUE)
 YearsLeft$iso2c[YearsLeft$iso2c == 'GB'] <- 'UK'
 
-# Keep only European 27
-eu27 <- c("Austria", "Belgium", "Bulgaria", "Cyprus", "CzechRepublic", 
-          "Denmark", "Estonia", "Finland", "France", "Germany", "Greece", 
-          "Hungary", "Ireland", "Italy", "Latvia", "Lithuania", "Luxembourg", 
-          "Malta", "Netherlands", "Poland", "Portugal", "Romania", "Slovakia",
-          "Slovenia", "Spain", "Sweden", "United Kingdom")
+# Keep only European 28
+eu28 <- c("Austria", "Belgium", "Bulgaria", "Croatia", "Cyprus", 
+          "CzechRepublic", "Denmark", "Estonia", "Finland", "France", "Germany", 
+          "Greece", "Hungary", "Ireland", "Italy", "Latvia", "Lithuania", 
+          "Luxembourg", "Malta", "Netherlands", "Poland", "Portugal", "Romania", 
+          "Slovakia", "Slovenia", "Spain", "Sweden", "United Kingdom")
 
-YearsLeft <- YearsLeft[YearsLeft$country %in% eu27, ]
+YearsLeft <- YearsLeft[YearsLeft$country %in% eu28, ]
 YearsLeft <- YearsLeft[order(YearsLeft$country, YearsLeft$year), ]
 
 # Recode -999 as NA

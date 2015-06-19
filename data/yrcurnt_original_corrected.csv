@@ -37,7 +37,7 @@
 "AUT","AT","Austria",2010,0,3
 "AUT","AT","Austria",2011,3,2
 "AUT","AT","Austria",2012,2,1
-"AUT",NA,"Austria",2013,NA,0
+"AUT","AT","Austria",2013,NA,0
 "BEL","BE","Belgium",1975,3,3
 "BEL","BE","Belgium",1976,2,2
 "BEL","BE","Belgium",1977,1,1
@@ -76,7 +76,7 @@
 "BEL","BE","Belgium",2010,1,0
 "BEL","BE","Belgium",2011,3,3
 "BEL","BE","Belgium",2012,2,2
-"BEL",NA,"Belgium",2013,NA,1
+"BEL","BE","Belgium",2013,NA,1
 "BGR","BG","Bulgaria",1975,NA,NA
 "BGR","BG","Bulgaria",1976,NA,NA
 "BGR","BG","Bulgaria",1977,NA,NA
@@ -191,7 +191,7 @@
 "DNK","DK","Denmark",2010,1,1
 "DNK","DK","Denmark",2011,0,0
 "DNK","DK","Denmark",2012,3,3
-"DNK",NA,"Denmark",2013,NA,2
+"DNK","DK","Denmark",2013,NA,2
 "EST","EE","Estonia",1975,NA,NA
 "EST","EE","Estonia",1976,NA,NA
 "EST","EE","Estonia",1977,NA,NA
@@ -230,7 +230,7 @@
 "EST","EE","Estonia",2010,1,1
 "EST","EE","Estonia",2011,0,0
 "EST","EE","Estonia",2012,4,0
-"EST",NA,"Estonia",2013,NA,0
+"EST","EE","Estonia",2013,NA,0
 "FIN","FI","Finland",1975,NA,NA
 "FIN","FI","Finland",1976,3,3
 "FIN","FI","Finland",1977,2,2
@@ -345,7 +345,7 @@
 "DEU","DE","Germany",2010,3,3
 "DEU","DE","Germany",2011,2,2
 "DEU","DE","Germany",2012,1,1
-"DEU",NA,"Germany",2013,NA,0
+"DEU","DE","Germany",2013,NA,0
 "GRC","GR","Greece",1975,4,4
 "GRC","GR","Greece",1976,3,3
 "GRC","GR","Greece",1977,0,0
@@ -384,7 +384,7 @@
 "GRC","GR","Greece",2010,3,3
 "GRC","GR","Greece",2011,2,2
 "GRC","GR","Greece",2012,1,0
-"GRC",NA,"Greece",2013,NA,3
+"GRC","GR","Greece",2013,NA,3
 "HUN","HU","Hungary",1975,0,0
 "HUN","HU","Hungary",1976,4,4
 "HUN","HU","Hungary",1977,3,3
@@ -461,7 +461,7 @@
 "IRL","IE","Ireland",2010,2,2
 "IRL","IE","Ireland",2011,1,0
 "IRL","IE","Ireland",2012,4,4
-"IRL",NA,"Ireland",2013,NA,3
+"IRL","IE","Ireland",2013,NA,3
 "ITA","IT","Italy",1975,NA,NA
 "ITA","IT","Italy",1976,0,0
 "ITA","IT","Italy",1977,4,4
@@ -500,7 +500,7 @@
 "ITA","IT","Italy",2010,3,3
 "ITA","IT","Italy",2011,2,2
 "ITA","IT","Italy",2012,1,1
-"ITA",NA,"Italy",2013,NA,0
+"ITA","IT","Italy",2013,NA,0
 "LVA","LV","Latvia",1975,NA,NA
 "LVA","LV","Latvia",1976,NA,NA
 "LVA","LV","Latvia",1977,NA,NA
@@ -539,7 +539,7 @@
 "LVA","LV","Latvia",2010,3,0
 "LVA","LV","Latvia",2011,NA,0
 "LVA","LV","Latvia",2012,3,3
-"LVA",NA,"Latvia",2013,NA,2
+"LVA","LV","Latvia",2013,NA,2
 "LTU","LT","Lithuania",1975,NA,NA
 "LTU","LT","Lithuania",1976,NA,NA
 "LTU","LT","Lithuania",1977,NA,NA
@@ -578,7 +578,7 @@
 "LTU","LT","Lithuania",2010,4,2
 "LTU","LT","Lithuania",2011,3,1
 "LTU","LT","Lithuania",2012,2,0
-"LTU",NA,"Lithuania",2013,NA,3
+"LTU","LT","Lithuania",2013,NA,3
 "LUX","LU","Luxembourg",1975,4,4
 "LUX","LU","Luxembourg",1976,3,3
 "LUX","LU","Luxembourg",1977,2,2
@@ -693,7 +693,7 @@
 "NLD","NL","Netherlands",2010,0,0
 "NLD","NL","Netherlands",2011,3,3
 "NLD","NL","Netherlands",2012,2,0
-"NLD",NA,"Netherlands",2013,NA,3
+"NLD","NL","Netherlands",2013,NA,3
 "POL","PL","Poland",1975,NA,NA
 "POL","PL","Poland",1976,NA,NA
 "POL","PL","Poland",1977,NA,NA
@@ -770,7 +770,7 @@
 "PRT","PT","Portugal",2010,3,3
 "PRT","PT","Portugal",2011,2,0
 "PRT","PT","Portugal",2012,3,3
-"PRT",NA,"Portugal",2013,NA,2
+"PRT","PT","Portugal",2013,NA,2
 "ROM","RO","Romania",1975,0,0
 "ROM","RO","Romania",1976,3,3
 "ROM","RO","Romania",1977,2,2
@@ -809,7 +809,7 @@
 "ROM","RO","Romania",2010,4,2
 "ROM","RO","Romania",2011,3,1
 "ROM","RO","Romania",2012,2,0
-"ROM",NA,"Romania",2013,NA,3
+"ROM","RO","Romania",2013,NA,3
 "SVK","SK","Slovakia",1975,NA,NA
 "SVK","SK","Slovakia",1976,NA,NA
 "SVK","SK","Slovakia",1977,NA,NA
@@ -848,7 +848,7 @@
 "SVK","SK","Slovakia",2010,0,0
 "SVK","SK","Slovakia",2011,3,3
 "SVK","SK","Slovakia",2012,2,0
-"SVK",NA,"Slovakia",2013,NA,3
+"SVK","SK","Slovakia",2013,NA,3
 "SVN","SI","Slovenia",1975,NA,NA
 "SVN","SI","Slovenia",1976,NA,NA
 "SVN","SI","Slovenia",1977,NA,NA
@@ -887,7 +887,7 @@
 "SVN","SI","Slovenia",2010,3,2
 "SVN","SI","Slovenia",2011,2,0
 "SVN","SI","Slovenia",2012,4,3
-"SVN",NA,"Slovenia",2013,NA,2
+"SVN","SI","Slovenia",2013,NA,2
 "ESP","ES","Spain",1975,NA,NA
 "ESP","ES","Spain",1976,NA,NA
 "ESP","ES","Spain",1977,NA,NA
@@ -926,7 +926,7 @@
 "ESP","ES","Spain",2010,2,2
 "ESP","ES","Spain",2011,1,0
 "ESP","ES","Spain",2012,3,3
-"ESP",NA,"Spain",2013,NA,2
+"ESP","ES","Spain",2013,NA,2
 "SWE","SE","Sweden",1975,1,1
 "SWE","SE","Sweden",1976,0,0
 "SWE","SE","Sweden",1977,2,2
@@ -1003,4 +1003,4 @@
 "GBR","UK","United Kingdom",2010,0,0
 "GBR","UK","United Kingdom",2011,4,4
 "GBR","UK","United Kingdom",2012,3,3
-"GBR",NA,"United Kingdom",2013,NA,2
+"GBR","UK","United Kingdom",2013,NA,2

@@ -42,6 +42,14 @@ BEL,Belgium,2010,0
 BEL,Belgium,2011,3
 BEL,Belgium,2012,2
 BEL,Belgium,2013,1
+CAN,Canada,2006,0
+CAN,Canada,2007,3
+CAN,Canada,2008,0
+CAN,Canada,2009,3
+CAN,Canada,2010,2
+CAN,Canada,2011,0
+CAN,Canada,2012,3
+CAN,Canada,2013,2
 HRV ,Croatia,1991,1
 HRV ,Croatia,1992,0
 HRV ,Croatia,1993,4
@@ -122,9 +130,22 @@ GRC,Greece,2010,3
 GRC,Greece,2011,2
 GRC,Greece,2012,0
 GRC,Greece,2013,3
+ISL,Iceland,2009,0
+ISL,Iceland,2010,3
+ISL,Iceland,2011,2
+ISL,Iceland,2012,1
+ISL,Iceland,2013,0
 IRL,Ireland,2011,0
 IRL,Ireland,2012,4
 IRL,Ireland,2013,3
+ISR,Israel,2006,0
+ISR,Israel,2007,3
+ISR,Israel,2008,2
+ISR,Israel,2009,0
+ISR,Israel,2010,3
+ISR,Israel,2011,2
+ISR,Israel,2012,1
+ISR,Israel,2013,0
 ITA,Italy,2006,0
 ITA,Italy,2007,4
 ITA,Italy,2008,0
@@ -133,6 +154,17 @@ ITA,Italy,2010,3
 ITA,Italy,2011,2
 ITA,Italy,2012,1
 ITA,Italy,2013,0
+JPN,Japan,2003,0
+JPN,Japan,2004,3
+JPN,Japan,2005,0
+JPN,Japan,2006,3
+JPN,Japan,2007,2
+JPN,Japan,2008,1
+JPN,Japan,2009,0
+JPN,Japan,2010,3
+JPN,Japan,2011,2
+JPN,Japan,2012,0
+JPN,Japan,2013,3
 LVA,Latvia,2002,0
 LVA,Latvia,2003,3
 LVA,Latvia,2004,2

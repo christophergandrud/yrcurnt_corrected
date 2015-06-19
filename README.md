@@ -3,14 +3,12 @@ Corrected Election Timing Variable (yrcurnt)
 
 Christopher Gandrud
 
-[![DOI](https://zenodo.org/badge/5350/christophergandrud/yrcurnt_corrected.png)](http://dx.doi.org/10.5281/zenodo.11852)
-
 Corrects errors and inconsistencies in the
-[Database of Political Institution's](http://go.worldbank.org/2EAGGLRZ40) (2012)
+[Database of Political Institution's](http://go.worldbank.org/2EAGGLRZ40) (2013)
 years to election (**yrcurnt**) variable.
 
 The corrected variable is called **yrcurnt_corrected**. It is currently updated
-only for EU 27 countries.
+for EU 28 countries and most other OECD countries.
 
 ## Motivation
 
@@ -27,7 +25,8 @@ this post highlights and corrects.
 
 Note that Alt et al.'s substantive findings hold up when using the correct data,
 though the estimated magnitudes of the effects are reduced somewhat. See
-the [replication repository](https://github.com/christophergandrud/Alt_et_al_2014_Replication) for more details.
+the [replication repository](https://github.com/christophergandrud/Alt_et_al_2014_Replication)
+for more details.
 
 ### Variable definition
 
@@ -63,15 +62,17 @@ coding scheme defines. See the table below for details.
 
 ## Updated Data
 
-A corrected version of the variable for EU 27 countries can be found in
-[data/yrcurnt_corrected.csv](data/yrcurnt_corrected.csv). This includes only updated
-observations. A data file with both full
+A corrected version of the variable for EU 28 countries and most other OECD
+countries can be found in
+[data/yrcurnt_corrected.csv](data/yrcurnt_corrected.csv).
+*This includes only corrected observations*. A data file with both full
 the original and corrected data can be found in [data/yrcurnt_original_corrected.csv](data/yrcurnt_original_corrected.csv).
 
 Election timing data from 1990 to the present was found at the
-[European Election Database](http://www.nsd.uib.no/european_election_database/)
-These election dates were corroborated with data from Wikipedia. Election dates from
-before 1990 are also from Wikipedia.
+[European Election Database](http://www.nsd.uib.no/european_election_database/),
+when data was available.
+These election dates were corroborated with data from Wikipedia. Election dates
+from before 1990 and for non-European countries are also from Wikipedia.
 
 The full list of changes are given in the following table.
 
@@ -81,12 +82,16 @@ The full list of changes are given in the following table.
 | ------- | ------------------------------------------------------------------ |
 | Austria | Use parliamentary rather than (figurehead) presidential elections. |
 | Belgium | Corrects missing 2010 election year.                               |
+| Canada  | Corrects missing 2006, 2008, 2011 election years.                  |
 | Denmark | Corrects missing 2001 and 2007 elections.                          |
 | Estonia | Corrects 1995, 1999, 2003, 2007, and 2011 elections. Also counting originally started at 4, but should start at 3 as there is a 4 year term limit (not 5). |
 | Germany | Corrects missing 2005 election.                                    |
 | Greece  | Corrects missing 2007, 2009, 2012 election years.                  |
+| Iceland | Corrects missing 2009 election year.                               |
 | Ireland | Corrects missing 2011 election.                                    |
+| Israel  | Corrects missing 2006, 2009, 2013                                  |
 | Italy   | Corrects missing 2008 election.                                    |
+| Japan   | Corrects missing 2005 and 2012 elections. Corrects misclassification of the 2003 and 2009 elections, which were originally erroneously labeled as being in 2004 and 2008 respectively. |
 | Lithuania | Use parliamentary rather than presidential elections. It is a semi-presidential system where the president appoints the PM, the legislature's approval is needed. PM is more responsible for domestic policy. |
 | Latvia  | Corrects missing 2006, 2010, 2011 election years.                  |
 | Netherlands | Corrects missing 2003 and 2006 elections.                      |
@@ -96,16 +101,3 @@ The full list of changes are given in the following table.
 | Slovakia | Corrects missing 2012 election.                                   |
 | Spain   | Corrects missing 1989, 1996, and 2011 elections.                   |
 | United Kingdom | Corrected missing 2001 and 2005 elections.                  |
-
-## Overview of changes
-
-17 of the 27 countries required some corrections. The bulk of these corrections
-were in the post-2000 period. Many countries are simply missing elections in
-the 2000s period.
-
-The following figure plots the original **yrcurnt** value compared to the
-residual of the original and corrected values (e.g. original - corrected). The
-points are jittered to make them easier to see. A residual of 0 clearly indicates
-that an observation was not corrected.
-
-![plot of chunk original-corrected-residual](figure/original-corrected-residual-1.png) 

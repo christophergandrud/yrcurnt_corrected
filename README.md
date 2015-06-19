@@ -80,9 +80,10 @@ The full list of changes are given in the following table.
 
 | Country | Changes                                                            |
 | ------- | ------------------------------------------------------------------ |
+| Australia | Corrects missing 1998 election year.                             |
 | Austria | Use parliamentary rather than (figurehead) presidential elections. |
 | Belgium | Corrects missing 2010 election year.                               |
-| Canada  | Corrects missing 2006, 2008, 2011 election years.                  |
+| Canada  | Corrects missing 2000, 2006, 2008, 2011 election years.            |
 | Denmark | Corrects missing 2001 and 2007 elections.                          |
 | Estonia | Corrects 1995, 1999, 2003, 2007, and 2011 elections. Also counting originally started at 4, but should start at 3 as there is a 4 year term limit (not 5). |
 | Germany | Corrects missing 2005 election.                                    |

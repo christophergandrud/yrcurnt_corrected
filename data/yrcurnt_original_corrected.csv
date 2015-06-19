@@ -22,7 +22,7 @@
 "AUS","AU","Australia",1995,1,1
 "AUS","AU","Australia",1996,0,0
 "AUS","AU","Australia",1997,2,2
-"AUS","AU","Australia",1998,1,1
+"AUS","AU","Australia",1998,1,0
 "AUS","AU","Australia",1999,2,2
 "AUS","AU","Australia",2000,1,1
 "AUS","AU","Australia",2001,0,0
@@ -178,7 +178,7 @@
 "CAN","CA","Canada",1997,0,0
 "CAN","CA","Canada",1998,3,3
 "CAN","CA","Canada",1999,2,2
-"CAN","CA","Canada",2000,1,1
+"CAN","CA","Canada",2000,1,0
 "CAN","CA","Canada",2001,3,3
 "CAN","CA","Canada",2002,2,2
 "CAN","CA","Canada",2003,1,1

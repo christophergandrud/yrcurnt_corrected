@@ -1,4 +1,5 @@
 worldbank_code,country,year,yrcurnt_corrected
+AUS,Australia,1998,0
 AUT,Austria,1975,0
 AUT,Austria,1976,4
 AUT,Austria,1977,3
@@ -42,6 +43,12 @@ BEL,Belgium,2010,0
 BEL,Belgium,2011,3
 BEL,Belgium,2012,2
 BEL,Belgium,2013,1
+CAN,Canada,2000,0
+CAN,Canada,2001,3
+CAN,Canada,2002,2
+CAN,Canada,2003,1
+CAN,Canada,2004,0
+CAN,Canada,2005,3
 CAN,Canada,2006,0
 CAN,Canada,2007,3
 CAN,Canada,2008,0

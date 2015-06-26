@@ -39,10 +39,14 @@ AUT,Austria,2010,3
 AUT,Austria,2011,2
 AUT,Austria,2012,1
 AUT,Austria,2013,0
+BEL,Belgium,1977,0
 BEL,Belgium,2010,0
 BEL,Belgium,2011,3
 BEL,Belgium,2012,2
 BEL,Belgium,2013,1
+CAN,Canada,1980,0
+CAN,Canada,1984,0
+CAN,Canada,1988,0
 CAN,Canada,2000,0
 CAN,Canada,2001,3
 CAN,Canada,2002,2
@@ -80,6 +84,9 @@ HRV ,Croatia,2010,2
 HRV ,Croatia,2011,0
 HRV ,Croatia,2012,3
 HRV ,Croatia,2013,2
+DNK,Denmark,1981,0
+DNK,Denmark,1982,3
+DNK,Denmark,1983,2
 DNK,Denmark,2001,0
 DNK,Denmark,2002,3
 DNK,Denmark,2003,2
@@ -127,6 +134,10 @@ DEU,Germany,2010,3
 DEU,Germany,2011,2
 DEU,Germany,2012,1
 DEU,Germany,2013,0
+GRC,Greece,1989,0
+GRC,Greece,1990,0
+GRC,Greece,1991,3
+GRC,Greece,1992,2
 GRC,Greece,2004,0
 GRC,Greece,2005,3
 GRC,Greece,2006,2
@@ -317,6 +328,7 @@ ESP,Spain,2010,2
 ESP,Spain,2011,0
 ESP,Spain,2012,3
 ESP,Spain,2013,2
+GBR,United Kingdom,1987,0
 GBR,United Kingdom,1997,0
 GBR,United Kingdom,1998,4
 GBR,United Kingdom,1999,3

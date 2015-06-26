@@ -82,12 +82,12 @@ The full list of changes are given in the following table.
 | ------- | ------------------------------------------------------------------ |
 | Australia | Corrects missing 1998 election year.                             |
 | Austria | Use parliamentary rather than (figurehead) presidential elections. |
-| Belgium | Corrects missing 2010 election year.                               |
-| Canada  | Corrects missing 2000, 2006, 2008, 2011 election years.            |
-| Denmark | Corrects missing 2001 and 2007 elections.                          |
+| Belgium | Corrects missing 1977 and 2010 election years.                     |
+| Canada  | Corrects missing 1980, 1984, 1988, 2000, 2006, 2008, 2011 election years. |
+| Denmark | Originally counted 1981 election as occurring in 1982. Corrects missing 2001 and 2007 elections. |
 | Estonia | Corrects 1995, 1999, 2003, 2007, and 2011 elections. Also counting originally started at 4, but should start at 3 as there is a 4 year term limit (not 5). |
 | Germany | Corrects missing 2005 election.                                    |
-| Greece  | Corrects missing 2007, 2009, 2012 election years.                  |
+| Greece  | Corrects missing 1990, 2007, 2009, 2012 election years.            |
 | Iceland | Corrects missing 2009 election year.                               |
 | Ireland | Corrects missing 2011 election.                                    |
 | Israel  | Corrects missing 2006, 2009, 2013                                  |
@@ -101,4 +101,4 @@ The full list of changes are given in the following table.
 | Slovenia | Use parliamentary rather than (figurehead) presidential elections.|
 | Slovakia | Corrects missing 2012 election.                                   |
 | Spain   | Corrects missing 1989, 1996, and 2011 elections.                   |
-| United Kingdom | Corrected missing 2001 and 2005 elections.                  |
+| United Kingdom | Corrected missing 1987, 2001, and 2005 elections.           |

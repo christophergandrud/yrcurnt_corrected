@@ -15,7 +15,8 @@ library(countrycode)
 setwd('/git_repositories/yrcurnt_corrected/')
 
 # Years left in current term
-YearsLeft <- DpiGet(vars = c('yrcurnt'), duplicates = 'drop', fromLast = TRUE)Ice# YearsLeft$iso2c[YearsLeft$iso2c == 'GB'] <- 'UK'
+YearsLeft <- DpiGet(vars = c('yrcurnt'), duplicates = 'drop', fromLast = TRUE)
+# YearsLeft$iso2c[YearsLeft$iso2c == 'GB'] <- 'UK'
 
 # Keep only European 28 + select OECD
 keep <- c("Australia", "Austria", "Belgium", "Bulgaria", "Canada", 

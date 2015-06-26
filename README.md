@@ -92,7 +92,7 @@ The full list of changes are given in the following table.
 | Ireland | Corrects missing 2011 election.                                    |
 | Israel  | Corrects missing 2006, 2009, 2013                                  |
 | Italy   | Corrects missing 2008 election.                                    |
-| Japan   | Corrects missing 2005 and 2012 elections. Corrects misclassification of the 2003 and 2009 elections, which were originally erroneously labeled as being in 2004 and 2008 respectively. |
+| Japan   | Corrects missing 2005 and 2012 elections. Corrects misclassification of the 2003 and 2009 elections, which were originally erroneously labeled as being in 2004 and 2008, respectively. |
 | Lithuania | Use parliamentary rather than presidential elections. It is a semi-presidential system where the president appoints the PM, the legislature's approval is needed. PM is more responsible for domestic policy. |
 | Latvia  | Corrects missing 2006, 2010, 2011 election years.                  |
 | Netherlands | Corrects missing 2003 and 2006 elections.                      |

@@ -78,7 +78,7 @@
 "AUT",NA,"Austria",2013,NA,0
 "BEL","BE","Belgium",1975,3,3
 "BEL","BE","Belgium",1976,2,2
-"BEL","BE","Belgium",1977,1,1
+"BEL","BE","Belgium",1977,1,0
 "BEL","BE","Belgium",1978,0,0
 "BEL","BE","Belgium",1979,3,3
 "BEL","BE","Belgium",1980,2,2
@@ -130,14 +130,14 @@
 "BGR","BG","Bulgaria",1987,NA,NA
 "BGR","BG","Bulgaria",1988,NA,NA
 "BGR","BG","Bulgaria",1989,NA,NA
-"BGR","BG","Bulgaria",1990,NA,NA
-"BGR","BG","Bulgaria",1991,4,4
-"BGR","BG","Bulgaria",1992,0,0
-"BGR","BG","Bulgaria",1993,4,4
-"BGR","BG","Bulgaria",1994,3,3
-"BGR","BG","Bulgaria",1995,2,2
-"BGR","BG","Bulgaria",1996,0,0
-"BGR","BG","Bulgaria",1997,4,4
+"BGR","BG","Bulgaria",1990,NA,0
+"BGR","BG","Bulgaria",1991,4,0
+"BGR","BG","Bulgaria",1992,0,3
+"BGR","BG","Bulgaria",1993,4,2
+"BGR","BG","Bulgaria",1994,3,0
+"BGR","BG","Bulgaria",1995,2,3
+"BGR","BG","Bulgaria",1996,0,2
+"BGR","BG","Bulgaria",1997,4,0
 "BGR","BG","Bulgaria",1998,3,3
 "BGR","BG","Bulgaria",1999,2,2
 "BGR","BG","Bulgaria",2000,1,1
@@ -153,20 +153,22 @@
 "BGR","BG","Bulgaria",2010,3,3
 "BGR","BG","Bulgaria",2011,2,2
 "BGR","BG","Bulgaria",2012,1,1
+"BGR",NA,"Bulgaria",2013,NA,0
+"BGR",NA,"Bulgaria",2014,NA,0
 "CAN","CA","Canada",1975,4,4
 "CAN","CA","Canada",1976,3,3
 "CAN","CA","Canada",1977,2,2
 "CAN","CA","Canada",1978,1,1
 "CAN","CA","Canada",1979,0,0
-"CAN","CA","Canada",1980,4,4
+"CAN","CA","Canada",1980,4,0
 "CAN","CA","Canada",1981,4,4
 "CAN","CA","Canada",1982,3,3
 "CAN","CA","Canada",1983,2,2
-"CAN","CA","Canada",1984,1,1
+"CAN","CA","Canada",1984,1,0
 "CAN","CA","Canada",1985,4,4
 "CAN","CA","Canada",1986,3,3
 "CAN","CA","Canada",1987,2,2
-"CAN","CA","Canada",1988,1,1
+"CAN","CA","Canada",1988,1,0
 "CAN","CA","Canada",1989,4,4
 "CAN","CA","Canada",1990,3,3
 "CAN","CA","Canada",1991,2,2
@@ -313,9 +315,9 @@
 "DNK","DK","Denmark",1978,3,3
 "DNK","DK","Denmark",1979,0,0
 "DNK","DK","Denmark",1980,3,3
-"DNK","DK","Denmark",1981,2,2
-"DNK","DK","Denmark",1982,0,0
-"DNK","DK","Denmark",1983,3,3
+"DNK","DK","Denmark",1981,2,0
+"DNK","DK","Denmark",1982,0,3
+"DNK","DK","Denmark",1983,3,2
 "DNK","DK","Denmark",1984,0,0
 "DNK","DK","Denmark",1985,3,3
 "DNK","DK","Denmark",1986,2,2
@@ -515,9 +517,9 @@
 "GRC","GR","Greece",1987,2,2
 "GRC","GR","Greece",1988,1,1
 "GRC","GR","Greece",1989,0,0
-"GRC","GR","Greece",1990,3,3
-"GRC","GR","Greece",1991,2,2
-"GRC","GR","Greece",1992,1,1
+"GRC","GR","Greece",1990,3,0
+"GRC","GR","Greece",1991,2,3
+"GRC","GR","Greece",1992,1,2
 "GRC","GR","Greece",1993,0,0
 "GRC","GR","Greece",1994,3,3
 "GRC","GR","Greece",1995,2,2
@@ -1400,7 +1402,7 @@
 "GBR","GB","United Kingdom",1984,4,4
 "GBR","GB","United Kingdom",1985,3,3
 "GBR","GB","United Kingdom",1986,2,2
-"GBR","GB","United Kingdom",1987,1,1
+"GBR","GB","United Kingdom",1987,1,0
 "GBR","GB","United Kingdom",1988,4,4
 "GBR","GB","United Kingdom",1989,3,3
 "GBR","GB","United Kingdom",1990,2,2

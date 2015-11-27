@@ -1,8 +1,8 @@
 #################
 # Correct DPI yrcurnt years to elections variable to reflect government, not
-# executive elections (Europe Only)
+# executive elections (Europe + OECD)
 # Christopher Gandrud
-# 19 June 2015
+# 27 November 2015
 # MIT License
 #################
 
@@ -10,6 +10,7 @@
 library(psData)
 library(DataCombine)
 library(countrycode)
+library(rio)
 
 # Set working directory, change as needed.
 setwd('/git_repositories/yrcurnt_corrected/')
@@ -45,7 +46,7 @@ YearsLeft$yrcurnt[YearsLeft$yrcurnt == -999] <- NA
 ## See README for summary of changes.
 
 # Merge in changes
-updated <- read.csv('data/yrcurnt_corrected.csv', stringsAsFactors = FALSE)
+updated <- import('data/yrcurnt_corrected.csv')
 comb <- merge(YearsLeft, updated, by = c('country', 'year'), all = TRUE)
 
 # Create complete merged/corrected yrcurnt
@@ -59,5 +60,10 @@ for (i in 1:nrow(comb)) {
 comb <- MoveFront(comb, c('worldbank_code', 'iso2c'))
 comb$worldbank_code <- countrycode(comb$country, origin = 'country.name',
                                    destination = 'wb')
+comb$iso2c <- countrycode(comb$country, origin = 'country.name',
+                                   destination = 'iso2c')
+
+comb <- DropNA(comb, 'yrcurnt_corrected')
+
 # Save
-write.csv(comb, 'data/yrcurnt_original_corrected.csv', row.names = FALSE)
+export(comb, 'data/yrcurnt_original_corrected.csv')

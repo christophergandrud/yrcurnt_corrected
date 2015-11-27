@@ -1,378 +1,378 @@
-worldbank_code,country,year,yrcurnt_corrected,
-AUS,Australia,1998,0,
-AUT,Austria,1975,0,
-AUT,Austria,1976,4,
-AUT,Austria,1977,3,
-AUT,Austria,1978,2,
-AUT,Austria,1979,0,
-AUT,Austria,1980,4,
-AUT,Austria,1981,3,
-AUT,Austria,1982,2,
-AUT,Austria,1983,0,
-AUT,Austria,1984,4,
-AUT,Austria,1985,3,
-AUT,Austria,1986,0,
-AUT,Austria,1987,4,
-AUT,Austria,1988,3,
-AUT,Austria,1989,2,
-AUT,Austria,1990,0,
-AUT,Austria,1991,4,
-AUT,Austria,1992,3,
-AUT,Austria,1993,2,
-AUT,Austria,1994,0,
-AUT,Austria,1995,0,
-AUT,Austria,1996,4,
-AUT,Austria,1997,3,
-AUT,Austria,1998,2,
-AUT,Austria,1999,0,
-AUT,Austria,2000,4,
-AUT,Austria,2001,3,
-AUT,Austria,2002,0,
-AUT,Austria,2003,4,
-AUT,Austria,2004,3,
-AUT,Austria,2005,2,
-AUT,Austria,2006,0,
-AUT,Austria,2007,4,
-AUT,Austria,2008,0,
-AUT,Austria,2009,4,
-AUT,Austria,2010,3,
-AUT,Austria,2011,2,
-AUT,Austria,2012,1,
-AUT,Austria,2013,0,
-BEL,Belgium,1977,0,
-BEL,Belgium,2010,0,
-BEL,Belgium,2011,3,
-BEL,Belgium,2012,2,
-BEL,Belgium,2013,1,
-BGR,Bulgaria,1990,0,
-BGR,Bulgaria,1991,0,
-BGR,Bulgaria,1992,3,
-BGR,Bulgaria,1993,2,
-BGR,Bulgaria,1994,0,
-BGR,Bulgaria,1995,3,
-BGR,Bulgaria,1996,2,
-BGR,Bulgaria,1997,0,
-BGR,Bulgaria,1998,3,
-BGR,Bulgaria,1999,2,
-BGR,Bulgaria,2000,1,
-BGR,Bulgaria,2001,0,
-BGR,Bulgaria,2002,3,
-BGR,Bulgaria,2003,2,
-BGR,Bulgaria,2004,1,
-BGR,Bulgaria,2005,0,
-BGR,Bulgaria,2006,3,
-BGR,Bulgaria,2007,2,
-BGR,Bulgaria,2008,1,
-BGR,Bulgaria,2009,0,
-BGR,Bulgaria,2010,3,
-BGR,Bulgaria,2011,2,
-BGR,Bulgaria,2012,1,
-BGR,Bulgaria,2013,0,
-BGR,Bulgaria,2014,0,
-CAN,Canada,1980,0,
-CAN,Canada,1984,0,
-CAN,Canada,1988,0,
-CAN,Canada,2000,0,
-CAN,Canada,2001,3,
-CAN,Canada,2002,2,
-CAN,Canada,2003,1,
-CAN,Canada,2004,0,
-CAN,Canada,2005,3,
-CAN,Canada,2006,0,
-CAN,Canada,2007,3,
-CAN,Canada,2008,0,
-CAN,Canada,2009,3,
-CAN,Canada,2010,2,
-CAN,Canada,2011,0,
-CAN,Canada,2012,3,
-CAN,Canada,2013,2,
-HRV ,Croatia,1991,1,
-HRV ,Croatia,1992,0,
-HRV ,Croatia,1993,4,
-HRV ,Croatia,1994,3,
-HRV ,Croatia,1995,0,
-HRV ,Croatia,1996,4,
-HRV ,Croatia,1997,3,
-HRV ,Croatia,1998,2,
-HRV ,Croatia,1999,1,
-HRV ,Croatia,2000,0,
-HRV ,Croatia,2001,4,
-HRV ,Croatia,2002,3,
-HRV ,Croatia,2003,0,
-HRV ,Croatia,2004,4,
-HRV ,Croatia,2005,3,
-HRV ,Croatia,2006,2,
-HRV ,Croatia,2007,0,
-HRV ,Croatia,2008,4,
-HRV ,Croatia,2009,3,
-HRV ,Croatia,2010,2,
-HRV ,Croatia,2011,0,
-HRV ,Croatia,2012,3,
-HRV ,Croatia,2013,2,
-CYP,Cyprus,2011,2,
-CYP,Cyprus,2012,1,
-CYP,Cyprus,2013,0,
-DNK,Denmark,1981,0,
-DNK,Denmark,1982,3,
-DNK,Denmark,1983,2,
-DNK,Denmark,2001,0,
-DNK,Denmark,2002,3,
-DNK,Denmark,2003,2,
-DNK,Denmark,2004,1,
-DNK,Denmark,2005,0,
-DNK,Denmark,2006,3,
-DNK,Denmark,2007,0,
-DNK,Denmark,2008,3,
-DNK,Denmark,2009,2,
-DNK,Denmark,2010,1,
-DNK,Denmark,2011,0,
-DNK,Denmark,2012,3,
-DNK,Denmark,2013,2,
-EST,Estonia,1992,0,
-EST,Estonia,1993,3,
-EST,Estonia,1994,2,
-EST,Estonia,1995,0,
-EST,Estonia,1996,3,
-EST,Estonia,1997,2,
-EST,Estonia,1998,1,
-EST,Estonia,1999,0,
-EST,Estonia,2000,3,
-EST,Estonia,2001,2,
-EST,Estonia,2002,1,
-EST,Estonia,2003,0,
-EST,Estonia,2004,3,
-EST,Estonia,2005,2,
-EST,Estonia,2006,1,
-EST,Estonia,2007,0,
-EST,Estonia,2008,3,
-EST,Estonia,2009,2,
-EST,Estonia,2010,1,
-EST,Estonia,2011,0,
-EST,Estonia,2012,3,
-EST,Estonia,2013,2,
-DEU,Germany,2002,0,
-DEU,Germany,2003,3,
-DEU,Germany,2004,2,
-DEU,Germany,2005,0,
-DEU,Germany,2006,3,
-DEU,Germany,2007,2,
-DEU,Germany,2008,1,
-DEU,Germany,2009,0,
-DEU,Germany,2010,3,
-DEU,Germany,2011,2,
-DEU,Germany,2012,1,
-DEU,Germany,2013,0,
-GRC,Greece,1989,0,
-GRC,Greece,1990,0,
-GRC,Greece,1991,3,
-GRC,Greece,1992,2,
-GRC,Greece,2004,0,
-GRC,Greece,2005,3,
-GRC,Greece,2006,2,
-GRC,Greece,2007,0,
-GRC,Greece,2008,3,
-GRC,Greece,2009,0,
-GRC,Greece,2010,3,
-GRC,Greece,2011,2,
-GRC,Greece,2012,0,
-GRC,Greece,2013,3,
-ISL,Iceland,2009,0,
-ISL,Iceland,2010,3,
-ISL,Iceland,2011,2,
-ISL,Iceland,2012,1,
-ISL,Iceland,2013,0,
-IRL,Ireland,2011,0,
-IRL,Ireland,2012,4,
-IRL,Ireland,2013,3,
-ISR,Israel,1984,0,
-ISR,Israel,1985,3,
-ISR,Israel,2006,0,
-ISR,Israel,2007,3,
-ISR,Israel,2008,2,
-ISR,Israel,2009,0,
-ISR,Israel,2010,3,
-ISR,Israel,2011,2,
-ISR,Israel,2012,1,
-ISR,Israel,2013,0,
-ITA,Italy,2006,0,
-ITA,Italy,2007,4,
-ITA,Italy,2008,0,
-ITA,Italy,2009,4,
-ITA,Italy,2010,3,
-ITA,Italy,2011,2,
-ITA,Italy,2012,1,
-ITA,Italy,2013,0,
-JPN,Japan,2003,0,
-JPN,Japan,2004,3,
-JPN,Japan,2005,0,
-JPN,Japan,2006,3,
-JPN,Japan,2007,2,
-JPN,Japan,2008,1,
-JPN,Japan,2009,0,
-JPN,Japan,2010,3,
-JPN,Japan,2011,2,
-JPN,Japan,2012,0,
-JPN,Japan,2013,3,
-LVA,Latvia,2002,0,
-LVA,Latvia,2003,3,
-LVA,Latvia,2004,2,
-LVA,Latvia,2005,1,
-LVA,Latvia,2006,0,
-LVA,Latvia,2007,3,
-LVA,Latvia,2008,2,
-LVA,Latvia,2009,1,
-LVA,Latvia,2010,0,
-LVA,Latvia,2011,0,
-LVA,Latvia,2012,3,
-LVA,Latvia,2013,2,
-LTU,Lithuania,1992,0,
-LTU,Lithuania,1993,3,
-LTU,Lithuania,1994,2,
-LTU,Lithuania,1995,1,
-LTU,Lithuania,1996,0,
-LTU,Lithuania,1997,3,
-LTU,Lithuania,1998,2,
-LTU,Lithuania,1999,1,
-LTU,Lithuania,2000,0,
-LTU,Lithuania,2001,3,
-LTU,Lithuania,2002,2,
-LTU,Lithuania,2003,1,
-LTU,Lithuania,2004,0,
-LTU,Lithuania,2005,3,
-LTU,Lithuania,2006,2,
-LTU,Lithuania,2007,1,
-LTU,Lithuania,2008,0,
-LTU,Lithuania,2009,3,
-LTU,Lithuania,2010,2,
-LTU,Lithuania,2011,1,
-LTU,Lithuania,2012,0,
-LTU,Lithuania,2013,3,
-NLD,Netherlands,2002,0,
-NLD,Netherlands,2003,0,
-NLD,Netherlands,2004,3,
-NLD,Netherlands,2005,2,
-NLD,Netherlands,2006,0,
-NLD,Netherlands,2007,3,
-NLD,Netherlands,2008,2,
-NLD,Netherlands,2009,1,
-NLD,Netherlands,2010,0,
-NLD,Netherlands,2011,3,
-NLD,Netherlands,2012,0,
-NLD,Netherlands,2013,3,
-PRT,Portugal,1976,0,
-PRT,Portugal,1977,3,
-PRT,Portugal,1978,2,
-PRT,Portugal,1979,0,
-PRT,Portugal,1980,0,
-PRT,Portugal,1981,3,
-PRT,Portugal,1982,2,
-PRT,Portugal,1983,0,
-PRT,Portugal,1984,3,
-PRT,Portugal,1985,0,
-PRT,Portugal,1986,3,
-PRT,Portugal,1987,0,
-PRT,Portugal,1988,3,
-PRT,Portugal,1989,2,
-PRT,Portugal,1990,1,
-PRT,Portugal,1991,0,
-PRT,Portugal,1992,3,
-PRT,Portugal,1993,2,
-PRT,Portugal,1994,1,
-PRT,Portugal,1995,0,
-PRT,Portugal,1996,3,
-PRT,Portugal,1997,2,
-PRT,Portugal,1998,1,
-PRT,Portugal,1999,0,
-PRT,Portugal,2000,3,
-PRT,Portugal,2001,2,
-PRT,Portugal,2002,0,
-PRT,Portugal,2003,3,
-PRT,Portugal,2004,2,
-PRT,Portugal,2005,0,
-PRT,Portugal,2006,3,
-PRT,Portugal,2007,2,
-PRT,Portugal,2008,1,
-PRT,Portugal,2009,0,
-PRT,Portugal,2010,3,
-PRT,Portugal,2011,0,
-PRT,Portugal,2012,3,
-PRT,Portugal,2013,2,
-ROM,Romania,2004,0,
-ROM,Romania,2005,3,
-ROM,Romania,2006,2,
-ROM,Romania,2007,1,
-ROM,Romania,2008,0,
-ROM,Romania,2009,3,
-ROM,Romania,2010,2,
-ROM,Romania,2011,1,
-ROM,Romania,2012,0,
-ROM,Romania,2013,3,
-SVK,Slovakia,2010,0,
-SVK,Slovakia,2011,3,
-SVK,Slovakia,2012,0,
-SVK,Slovakia,2013,3,
-SVN,Slovenia,1992,0,
-SVN,Slovenia,1993,3,
-SVN,Slovenia,1994,2,
-SVN,Slovenia,1995,1,
-SVN,Slovenia,1996,0,
-SVN,Slovenia,1997,3,
-SVN,Slovenia,1998,2,
-SVN,Slovenia,1999,1,
-SVN,Slovenia,2000,0,
-SVN,Slovenia,2001,3,
-SVN,Slovenia,2002,2,
-SVN,Slovenia,2003,1,
-SVN,Slovenia,2004,0,
-SVN,Slovenia,2005,3,
-SVN,Slovenia,2006,2,
-SVN,Slovenia,2007,1,
-SVN,Slovenia,2008,0,
-SVN,Slovenia,2009,3,
-SVN,Slovenia,2010,2,
-SVN,Slovenia,2011,0,
-SVN,Slovenia,2012,3,
-SVN,Slovenia,2013,2,
-ESP,Spain,1989,0,
-ESP,Spain,1990,3,
-ESP,Spain,1991,2,
-ESP,Spain,1992,1,
-ESP,Spain,1993,0,
-ESP,Spain,1994,3,
-ESP,Spain,1995,2,
-ESP,Spain,1996,0,
-ESP,Spain,1997,3,
-ESP,Spain,1998,2,
-ESP,Spain,1999,1,
-ESP,Spain,2000,0,
-ESP,Spain,2001,3,
-ESP,Spain,2002,2,
-ESP,Spain,2003,1,
-ESP,Spain,2004,0,
-ESP,Spain,2005,3,
-ESP,Spain,2006,2,
-ESP,Spain,2007,1,
-ESP,Spain,2008,0,
-ESP,Spain,2009,3,
-ESP,Spain,2010,2,
-ESP,Spain,2011,0,
-ESP,Spain,2012,3,
-ESP,Spain,2013,2,
-GBR,United Kingdom,1987,0,
-GBR,United Kingdom,1997,0,
-GBR,United Kingdom,1998,4,
-GBR,United Kingdom,1999,3,
-GBR,United Kingdom,2000,2,
-GBR,United Kingdom,2001,0,
-GBR,United Kingdom,2002,4,
-GBR,United Kingdom,2003,3,
-GBR,United Kingdom,2004,2,
-GBR,United Kingdom,2005,0,
-GBR,United Kingdom,2006,4,
-GBR,United Kingdom,2007,3,
-GBR,United Kingdom,2008,2,
-GBR,United Kingdom,2009,1,
-GBR,United Kingdom,2010,0,
-GBR,United Kingdom,2011,4,
-GBR,United Kingdom,2012,3,
-GBR,United Kingdom,2013,2,
+"worldbank_code","country","year","yrcurnt_corrected"
+"AUS","Australia",1998,0
+"AUT","Austria",1975,0
+"AUT","Austria",1976,4
+"AUT","Austria",1977,3
+"AUT","Austria",1978,2
+"AUT","Austria",1979,0
+"AUT","Austria",1980,4
+"AUT","Austria",1981,3
+"AUT","Austria",1982,2
+"AUT","Austria",1983,0
+"AUT","Austria",1984,4
+"AUT","Austria",1985,3
+"AUT","Austria",1986,0
+"AUT","Austria",1987,4
+"AUT","Austria",1988,3
+"AUT","Austria",1989,2
+"AUT","Austria",1990,0
+"AUT","Austria",1991,4
+"AUT","Austria",1992,3
+"AUT","Austria",1993,2
+"AUT","Austria",1994,0
+"AUT","Austria",1995,0
+"AUT","Austria",1996,4
+"AUT","Austria",1997,3
+"AUT","Austria",1998,2
+"AUT","Austria",1999,0
+"AUT","Austria",2000,4
+"AUT","Austria",2001,3
+"AUT","Austria",2002,0
+"AUT","Austria",2003,4
+"AUT","Austria",2004,3
+"AUT","Austria",2005,2
+"AUT","Austria",2006,0
+"AUT","Austria",2007,4
+"AUT","Austria",2008,0
+"AUT","Austria",2009,4
+"AUT","Austria",2010,3
+"AUT","Austria",2011,2
+"AUT","Austria",2012,1
+"AUT","Austria",2013,0
+"BEL","Belgium",1977,0
+"BEL","Belgium",2010,0
+"BEL","Belgium",2011,3
+"BEL","Belgium",2012,2
+"BEL","Belgium",2013,1
+"BGR","Bulgaria",1990,0
+"BGR","Bulgaria",1991,0
+"BGR","Bulgaria",1992,3
+"BGR","Bulgaria",1993,2
+"BGR","Bulgaria",1994,0
+"BGR","Bulgaria",1995,3
+"BGR","Bulgaria",1996,2
+"BGR","Bulgaria",1997,0
+"BGR","Bulgaria",1998,3
+"BGR","Bulgaria",1999,2
+"BGR","Bulgaria",2000,1
+"BGR","Bulgaria",2001,0
+"BGR","Bulgaria",2002,3
+"BGR","Bulgaria",2003,2
+"BGR","Bulgaria",2004,1
+"BGR","Bulgaria",2005,0
+"BGR","Bulgaria",2006,3
+"BGR","Bulgaria",2007,2
+"BGR","Bulgaria",2008,1
+"BGR","Bulgaria",2009,0
+"BGR","Bulgaria",2010,3
+"BGR","Bulgaria",2011,2
+"BGR","Bulgaria",2012,1
+"BGR","Bulgaria",2013,0
+"BGR","Bulgaria",2014,0
+"CAN","Canada",1980,0
+"CAN","Canada",1984,0
+"CAN","Canada",1988,0
+"CAN","Canada",2000,0
+"CAN","Canada",2001,3
+"CAN","Canada",2002,2
+"CAN","Canada",2003,1
+"CAN","Canada",2004,0
+"CAN","Canada",2005,3
+"CAN","Canada",2006,0
+"CAN","Canada",2007,3
+"CAN","Canada",2008,0
+"CAN","Canada",2009,3
+"CAN","Canada",2010,2
+"CAN","Canada",2011,0
+"CAN","Canada",2012,3
+"CAN","Canada",2013,2
+"HRV ","Croatia",1991,1
+"HRV ","Croatia",1992,0
+"HRV ","Croatia",1993,4
+"HRV ","Croatia",1994,3
+"HRV ","Croatia",1995,0
+"HRV ","Croatia",1996,4
+"HRV ","Croatia",1997,3
+"HRV ","Croatia",1998,2
+"HRV ","Croatia",1999,1
+"HRV ","Croatia",2000,0
+"HRV ","Croatia",2001,4
+"HRV ","Croatia",2002,3
+"HRV ","Croatia",2003,0
+"HRV ","Croatia",2004,4
+"HRV ","Croatia",2005,3
+"HRV ","Croatia",2006,2
+"HRV ","Croatia",2007,0
+"HRV ","Croatia",2008,4
+"HRV ","Croatia",2009,3
+"HRV ","Croatia",2010,2
+"HRV ","Croatia",2011,0
+"HRV ","Croatia",2012,3
+"HRV ","Croatia",2013,2
+"CYP","Cyprus",2011,2
+"CYP","Cyprus",2012,1
+"CYP","Cyprus",2013,0
+"DNK","Denmark",1981,0
+"DNK","Denmark",1982,3
+"DNK","Denmark",1983,2
+"DNK","Denmark",2001,0
+"DNK","Denmark",2002,3
+"DNK","Denmark",2003,2
+"DNK","Denmark",2004,1
+"DNK","Denmark",2005,0
+"DNK","Denmark",2006,3
+"DNK","Denmark",2007,0
+"DNK","Denmark",2008,3
+"DNK","Denmark",2009,2
+"DNK","Denmark",2010,1
+"DNK","Denmark",2011,0
+"DNK","Denmark",2012,3
+"DNK","Denmark",2013,2
+"EST","Estonia",1992,0
+"EST","Estonia",1993,3
+"EST","Estonia",1994,2
+"EST","Estonia",1995,0
+"EST","Estonia",1996,3
+"EST","Estonia",1997,2
+"EST","Estonia",1998,1
+"EST","Estonia",1999,0
+"EST","Estonia",2000,3
+"EST","Estonia",2001,2
+"EST","Estonia",2002,1
+"EST","Estonia",2003,0
+"EST","Estonia",2004,3
+"EST","Estonia",2005,2
+"EST","Estonia",2006,1
+"EST","Estonia",2007,0
+"EST","Estonia",2008,3
+"EST","Estonia",2009,2
+"EST","Estonia",2010,1
+"EST","Estonia",2011,0
+"EST","Estonia",2012,3
+"EST","Estonia",2013,2
+"DEU","Germany",2002,0
+"DEU","Germany",2003,3
+"DEU","Germany",2004,2
+"DEU","Germany",2005,0
+"DEU","Germany",2006,3
+"DEU","Germany",2007,2
+"DEU","Germany",2008,1
+"DEU","Germany",2009,0
+"DEU","Germany",2010,3
+"DEU","Germany",2011,2
+"DEU","Germany",2012,1
+"DEU","Germany",2013,0
+"GRC","Greece",1989,0
+"GRC","Greece",1990,0
+"GRC","Greece",1991,3
+"GRC","Greece",1992,2
+"GRC","Greece",2004,0
+"GRC","Greece",2005,3
+"GRC","Greece",2006,2
+"GRC","Greece",2007,0
+"GRC","Greece",2008,3
+"GRC","Greece",2009,0
+"GRC","Greece",2010,3
+"GRC","Greece",2011,2
+"GRC","Greece",2012,0
+"GRC","Greece",2013,3
+"ISL","Iceland",2009,0
+"ISL","Iceland",2010,3
+"ISL","Iceland",2011,2
+"ISL","Iceland",2012,1
+"ISL","Iceland",2013,0
+"IRL","Ireland",2011,0
+"IRL","Ireland",2012,4
+"IRL","Ireland",2013,3
+"ISR","Israel",1984,0
+"ISR","Israel",1985,3
+"ISR","Israel",2006,0
+"ISR","Israel",2007,3
+"ISR","Israel",2008,2
+"ISR","Israel",2009,0
+"ISR","Israel",2010,3
+"ISR","Israel",2011,2
+"ISR","Israel",2012,1
+"ISR","Israel",2013,0
+"ITA","Italy",2006,0
+"ITA","Italy",2007,4
+"ITA","Italy",2008,0
+"ITA","Italy",2009,4
+"ITA","Italy",2010,3
+"ITA","Italy",2011,2
+"ITA","Italy",2012,1
+"ITA","Italy",2013,0
+"JPN","Japan",2003,0
+"JPN","Japan",2004,3
+"JPN","Japan",2005,0
+"JPN","Japan",2006,3
+"JPN","Japan",2007,2
+"JPN","Japan",2008,1
+"JPN","Japan",2009,0
+"JPN","Japan",2010,3
+"JPN","Japan",2011,2
+"JPN","Japan",2012,0
+"JPN","Japan",2013,3
+"LVA","Latvia",2002,0
+"LVA","Latvia",2003,3
+"LVA","Latvia",2004,2
+"LVA","Latvia",2005,1
+"LVA","Latvia",2006,0
+"LVA","Latvia",2007,3
+"LVA","Latvia",2008,2
+"LVA","Latvia",2009,1
+"LVA","Latvia",2010,0
+"LVA","Latvia",2011,0
+"LVA","Latvia",2012,3
+"LVA","Latvia",2013,2
+"LTU","Lithuania",1992,0
+"LTU","Lithuania",1993,3
+"LTU","Lithuania",1994,2
+"LTU","Lithuania",1995,1
+"LTU","Lithuania",1996,0
+"LTU","Lithuania",1997,3
+"LTU","Lithuania",1998,2
+"LTU","Lithuania",1999,1
+"LTU","Lithuania",2000,0
+"LTU","Lithuania",2001,3
+"LTU","Lithuania",2002,2
+"LTU","Lithuania",2003,1
+"LTU","Lithuania",2004,0
+"LTU","Lithuania",2005,3
+"LTU","Lithuania",2006,2
+"LTU","Lithuania",2007,1
+"LTU","Lithuania",2008,0
+"LTU","Lithuania",2009,3
+"LTU","Lithuania",2010,2
+"LTU","Lithuania",2011,1
+"LTU","Lithuania",2012,0
+"LTU","Lithuania",2013,3
+"NLD","Netherlands",2002,0
+"NLD","Netherlands",2003,0
+"NLD","Netherlands",2004,3
+"NLD","Netherlands",2005,2
+"NLD","Netherlands",2006,0
+"NLD","Netherlands",2007,3
+"NLD","Netherlands",2008,2
+"NLD","Netherlands",2009,1
+"NLD","Netherlands",2010,0
+"NLD","Netherlands",2011,3
+"NLD","Netherlands",2012,0
+"NLD","Netherlands",2013,3
+"PRT","Portugal",1976,0
+"PRT","Portugal",1977,3
+"PRT","Portugal",1978,2
+"PRT","Portugal",1979,0
+"PRT","Portugal",1980,0
+"PRT","Portugal",1981,3
+"PRT","Portugal",1982,2
+"PRT","Portugal",1983,0
+"PRT","Portugal",1984,3
+"PRT","Portugal",1985,0
+"PRT","Portugal",1986,3
+"PRT","Portugal",1987,0
+"PRT","Portugal",1988,3
+"PRT","Portugal",1989,2
+"PRT","Portugal",1990,1
+"PRT","Portugal",1991,0
+"PRT","Portugal",1992,3
+"PRT","Portugal",1993,2
+"PRT","Portugal",1994,1
+"PRT","Portugal",1995,0
+"PRT","Portugal",1996,3
+"PRT","Portugal",1997,2
+"PRT","Portugal",1998,1
+"PRT","Portugal",1999,0
+"PRT","Portugal",2000,3
+"PRT","Portugal",2001,2
+"PRT","Portugal",2002,0
+"PRT","Portugal",2003,3
+"PRT","Portugal",2004,2
+"PRT","Portugal",2005,0
+"PRT","Portugal",2006,3
+"PRT","Portugal",2007,2
+"PRT","Portugal",2008,1
+"PRT","Portugal",2009,0
+"PRT","Portugal",2010,3
+"PRT","Portugal",2011,0
+"PRT","Portugal",2012,3
+"PRT","Portugal",2013,2
+"ROM","Romania",2004,0
+"ROM","Romania",2005,3
+"ROM","Romania",2006,2
+"ROM","Romania",2007,1
+"ROM","Romania",2008,0
+"ROM","Romania",2009,3
+"ROM","Romania",2010,2
+"ROM","Romania",2011,1
+"ROM","Romania",2012,0
+"ROM","Romania",2013,3
+"SVK","Slovakia",2010,0
+"SVK","Slovakia",2011,3
+"SVK","Slovakia",2012,0
+"SVK","Slovakia",2013,3
+"SVN","Slovenia",1992,0
+"SVN","Slovenia",1993,3
+"SVN","Slovenia",1994,2
+"SVN","Slovenia",1995,1
+"SVN","Slovenia",1996,0
+"SVN","Slovenia",1997,3
+"SVN","Slovenia",1998,2
+"SVN","Slovenia",1999,1
+"SVN","Slovenia",2000,0
+"SVN","Slovenia",2001,3
+"SVN","Slovenia",2002,2
+"SVN","Slovenia",2003,1
+"SVN","Slovenia",2004,0
+"SVN","Slovenia",2005,3
+"SVN","Slovenia",2006,2
+"SVN","Slovenia",2007,1
+"SVN","Slovenia",2008,0
+"SVN","Slovenia",2009,3
+"SVN","Slovenia",2010,2
+"SVN","Slovenia",2011,0
+"SVN","Slovenia",2012,3
+"SVN","Slovenia",2013,2
+"ESP","Spain",1989,0
+"ESP","Spain",1990,3
+"ESP","Spain",1991,2
+"ESP","Spain",1992,1
+"ESP","Spain",1993,0
+"ESP","Spain",1994,3
+"ESP","Spain",1995,2
+"ESP","Spain",1996,0
+"ESP","Spain",1997,3
+"ESP","Spain",1998,2
+"ESP","Spain",1999,1
+"ESP","Spain",2000,0
+"ESP","Spain",2001,3
+"ESP","Spain",2002,2
+"ESP","Spain",2003,1
+"ESP","Spain",2004,0
+"ESP","Spain",2005,3
+"ESP","Spain",2006,2
+"ESP","Spain",2007,1
+"ESP","Spain",2008,0
+"ESP","Spain",2009,3
+"ESP","Spain",2010,2
+"ESP","Spain",2011,0
+"ESP","Spain",2012,3
+"ESP","Spain",2013,2
+"GBR","United Kingdom",1987,0
+"GBR","United Kingdom",1997,0
+"GBR","United Kingdom",1998,4
+"GBR","United Kingdom",1999,3
+"GBR","United Kingdom",2000,2
+"GBR","United Kingdom",2001,0
+"GBR","United Kingdom",2002,4
+"GBR","United Kingdom",2003,3
+"GBR","United Kingdom",2004,2
+"GBR","United Kingdom",2005,0
+"GBR","United Kingdom",2006,4
+"GBR","United Kingdom",2007,3
+"GBR","United Kingdom",2008,2
+"GBR","United Kingdom",2009,1
+"GBR","United Kingdom",2010,0
+"GBR","United Kingdom",2011,4
+"GBR","United Kingdom",2012,3
+"GBR","United Kingdom",2013,2

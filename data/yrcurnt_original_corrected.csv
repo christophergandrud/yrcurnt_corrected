@@ -37,6 +37,7 @@
 "AUS","AU","Australia",2010,0,0
 "AUS","AU","Australia",2011,2,2
 "AUS","AU","Australia",2012,1,1
+"AUS","AU","Australia",2013,0,0
 "AUT","AT","Austria",1975,0,0
 "AUT","AT","Austria",1976,3,4
 "AUT","AT","Austria",1977,2,3
@@ -71,11 +72,11 @@
 "AUT","AT","Austria",2006,0,0
 "AUT","AT","Austria",2007,3,4
 "AUT","AT","Austria",2008,2,0
-"AUT","AT","Austria",2009,1,4
-"AUT","AT","Austria",2010,0,3
-"AUT","AT","Austria",2011,3,2
-"AUT","AT","Austria",2012,2,1
-"AUT","AT","Austria",2013,NA,0
+"AUT","AT","Austria",2009,3,4
+"AUT","AT","Austria",2010,2,3
+"AUT","AT","Austria",2011,1,2
+"AUT","AT","Austria",2012,0,1
+"AUT","AT","Austria",2013,0,0
 "BEL","BE","Belgium",1975,3,3
 "BEL","BE","Belgium",1976,2,2
 "BEL","BE","Belgium",1977,1,0
@@ -114,7 +115,7 @@
 "BEL","BE","Belgium",2010,1,0
 "BEL","BE","Belgium",2011,3,3
 "BEL","BE","Belgium",2012,2,2
-"BEL","BE","Belgium",2013,NA,1
+"BEL","BE","Belgium",2013,1,1
 "BGR","BG","Bulgaria",1990,NA,0
 "BGR","BG","Bulgaria",1991,4,0
 "BGR","BG","Bulgaria",1992,0,3
@@ -138,8 +139,7 @@
 "BGR","BG","Bulgaria",2010,3,3
 "BGR","BG","Bulgaria",2011,2,2
 "BGR","BG","Bulgaria",2012,1,1
-"BGR","BG","Bulgaria",2013,NA,0
-"BGR","BG","Bulgaria",2014,NA,0
+"BGR","BG","Bulgaria",2013,0,0
 "CAN","CA","Canada",1975,4,4
 "CAN","CA","Canada",1976,3,3
 "CAN","CA","Canada",1977,2,2
@@ -178,7 +178,7 @@
 "CAN","CA","Canada",2010,2,2
 "CAN","CA","Canada",2011,1,0
 "CAN","CA","Canada",2012,3,3
-"CAN","CA","Canada",2013,NA,2
+"CAN","CA","Canada",2013,2,2
 "HRV","HR","Croatia",1991,4,1
 "HRV","HR","Croatia",1992,0,0
 "HRV","HR","Croatia",1993,4,4
@@ -199,9 +199,9 @@
 "HRV","HR","Croatia",2008,3,4
 "HRV","HR","Croatia",2009,2,3
 "HRV","HR","Croatia",2010,1,2
-"HRV","HR","Croatia",2011,0,0
+"HRV","HR","Croatia",2011,4,0
 "HRV","HR","Croatia",2012,3,3
-"HRV","HR","Croatia",2013,NA,2
+"HRV","HR","Croatia",2013,2,2
 "CYP","CY","Cyprus",1978,4,4
 "CYP","CY","Cyprus",1979,3,3
 "CYP","CY","Cyprus",1980,2,2
@@ -237,7 +237,7 @@
 "CYP","CY","Cyprus",2010,3,3
 "CYP","CY","Cyprus",2011,2,2
 "CYP","CY","Cyprus",2012,1,1
-"CYP","CY","Cyprus",2013,NA,0
+"CYP","CY","Cyprus",2013,0,0
 "CZE","CZ","Czech Republic",1977,4,4
 "CZE","CZ","Czech Republic",1978,3,3
 "CZE","CZ","Czech Republic",1979,2,2
@@ -274,6 +274,7 @@
 "CZE","CZ","Czech Republic",2010,0,0
 "CZE","CZ","Czech Republic",2011,3,3
 "CZE","CZ","Czech Republic",2012,2,2
+"CZE","CZ","Czech Republic",2013,1,1
 "DNK","DK","Denmark",1975,0,0
 "DNK","DK","Denmark",1976,3,3
 "DNK","DK","Denmark",1977,0,0
@@ -312,7 +313,7 @@
 "DNK","DK","Denmark",2010,1,1
 "DNK","DK","Denmark",2011,0,0
 "DNK","DK","Denmark",2012,3,3
-"DNK","DK","Denmark",2013,NA,2
+"DNK","DK","Denmark",2013,2,2
 "EST","EE","Estonia",1992,0,0
 "EST","EE","Estonia",1993,3,3
 "EST","EE","Estonia",1994,2,2
@@ -334,7 +335,7 @@
 "EST","EE","Estonia",2010,1,1
 "EST","EE","Estonia",2011,0,0
 "EST","EE","Estonia",2012,4,3
-"EST","EE","Estonia",2013,NA,2
+"EST","EE","Estonia",2013,3,2
 "FIN","FI","Finland",1976,3,3
 "FIN","FI","Finland",1977,2,2
 "FIN","FI","Finland",1978,1,1
@@ -372,6 +373,7 @@
 "FIN","FI","Finland",2010,1,1
 "FIN","FI","Finland",2011,0,0
 "FIN","FI","Finland",2012,3,3
+"FIN","FI","Finland",2013,2,2
 "FRA","FR","France",1975,3,3
 "FRA","FR","France",1976,2,2
 "FRA","FR","France",1977,1,1
@@ -410,6 +412,7 @@
 "FRA","FR","France",2010,2,2
 "FRA","FR","France",2011,1,1
 "FRA","FR","France",2012,0,0
+"FRA","FR","France",2013,4,4
 "DEU","DE","Germany",1975,1,1
 "DEU","DE","Germany",1976,0,0
 "DEU","DE","Germany",1977,3,3
@@ -448,7 +451,7 @@
 "DEU","DE","Germany",2010,3,3
 "DEU","DE","Germany",2011,2,2
 "DEU","DE","Germany",2012,1,1
-"DEU","DE","Germany",2013,NA,0
+"DEU","DE","Germany",2013,0,0
 "GRC","GR","Greece",1975,4,4
 "GRC","GR","Greece",1976,3,3
 "GRC","GR","Greece",1977,0,0
@@ -486,8 +489,8 @@
 "GRC","GR","Greece",2009,2,0
 "GRC","GR","Greece",2010,3,3
 "GRC","GR","Greece",2011,2,2
-"GRC","GR","Greece",2012,1,0
-"GRC","GR","Greece",2013,NA,3
+"GRC","GR","Greece",2012,3,0
+"GRC","GR","Greece",2013,3,3
 "HUN","HU","Hungary",1975,0,0
 "HUN","HU","Hungary",1976,4,4
 "HUN","HU","Hungary",1977,3,3
@@ -526,6 +529,7 @@
 "HUN","HU","Hungary",2010,0,0
 "HUN","HU","Hungary",2011,3,3
 "HUN","HU","Hungary",2012,2,2
+"HUN","HU","Hungary",2013,1,1
 "ISL","IS","Iceland",1975,3,3
 "ISL","IS","Iceland",1976,2,2
 "ISL","IS","Iceland",1977,1,1
@@ -564,7 +568,7 @@
 "ISL","IS","Iceland",2010,3,3
 "ISL","IS","Iceland",2011,2,2
 "ISL","IS","Iceland",2012,1,1
-"ISL","IS","Iceland",2013,NA,0
+"ISL","IS","Iceland",2013,0,0
 "IRL","IE","Ireland",1975,3,3
 "IRL","IE","Ireland",1976,2,2
 "IRL","IE","Ireland",1977,0,0
@@ -603,7 +607,7 @@
 "IRL","IE","Ireland",2010,2,2
 "IRL","IE","Ireland",2011,1,0
 "IRL","IE","Ireland",2012,4,4
-"IRL","IE","Ireland",2013,NA,3
+"IRL","IE","Ireland",2013,3,3
 "ISR","IL","Israel",1975,2,2
 "ISR","IL","Israel",1976,1,1
 "ISR","IL","Israel",1977,0,0
@@ -642,7 +646,7 @@
 "ISR","IL","Israel",2010,3,3
 "ISR","IL","Israel",2011,2,2
 "ISR","IL","Israel",2012,1,1
-"ISR","IL","Israel",2013,NA,0
+"ISR","IL","Israel",2013,0,0
 "ITA","IT","Italy",1976,0,0
 "ITA","IT","Italy",1977,4,4
 "ITA","IT","Italy",1978,3,3
@@ -679,8 +683,8 @@
 "ITA","IT","Italy",2009,4,4
 "ITA","IT","Italy",2010,3,3
 "ITA","IT","Italy",2011,2,2
-"ITA","IT","Italy",2012,1,1
-"ITA","IT","Italy",2013,NA,0
+"ITA","IT","Italy",2012,4,1
+"ITA","IT","Italy",2013,3,0
 "JPN","JP","Japan",1975,1,1
 "JPN","JP","Japan",1976,0,0
 "JPN","JP","Japan",1977,3,3
@@ -719,7 +723,7 @@
 "JPN","JP","Japan",2010,3,3
 "JPN","JP","Japan",2011,3,2
 "JPN","JP","Japan",2012,2,0
-"JPN","JP","Japan",2013,NA,3
+"JPN","JP","Japan",2013,3,3
 "KOR","KR","Korea, Republic of",1975,2,2
 "KOR","KR","Korea, Republic of",1976,1,1
 "KOR","KR","Korea, Republic of",1977,0,0
@@ -758,6 +762,7 @@
 "KOR","KR","Korea, Republic of",2010,2,2
 "KOR","KR","Korea, Republic of",2011,1,1
 "KOR","KR","Korea, Republic of",2012,0,0
+"KOR","KR","Korea, Republic of",2013,4,4
 "LVA","LV","Latvia",1993,0,0
 "LVA","LV","Latvia",1994,2,2
 "LVA","LV","Latvia",1995,0,0
@@ -800,7 +805,7 @@
 "LTU","LT","Lithuania",2010,4,2
 "LTU","LT","Lithuania",2011,3,1
 "LTU","LT","Lithuania",2012,2,0
-"LTU","LT","Lithuania",2013,NA,3
+"LTU","LT","Lithuania",2013,1,3
 "LUX","LU","Luxembourg",1975,4,4
 "LUX","LU","Luxembourg",1976,3,3
 "LUX","LU","Luxembourg",1977,2,2
@@ -839,6 +844,7 @@
 "LUX","LU","Luxembourg",2010,4,4
 "LUX","LU","Luxembourg",2011,3,3
 "LUX","LU","Luxembourg",2012,2,2
+"LUX","LU","Luxembourg",2013,1,1
 "MLT","MT","Malta",1975,1,1
 "MLT","MT","Malta",1976,0,0
 "MLT","MT","Malta",1977,4,4
@@ -877,6 +883,46 @@
 "MLT","MT","Malta",2010,3,3
 "MLT","MT","Malta",2011,2,2
 "MLT","MT","Malta",2012,1,1
+"MLT","MT","Malta",2013,0,0
+"MEX","MX","Mexico",1975,1,1
+"MEX","MX","Mexico",1976,0,0
+"MEX","MX","Mexico",1977,5,5
+"MEX","MX","Mexico",1978,4,4
+"MEX","MX","Mexico",1979,3,3
+"MEX","MX","Mexico",1980,2,2
+"MEX","MX","Mexico",1981,1,1
+"MEX","MX","Mexico",1982,0,0
+"MEX","MX","Mexico",1983,5,5
+"MEX","MX","Mexico",1984,4,4
+"MEX","MX","Mexico",1985,3,3
+"MEX","MX","Mexico",1986,2,2
+"MEX","MX","Mexico",1987,1,1
+"MEX","MX","Mexico",1988,0,0
+"MEX","MX","Mexico",1989,5,5
+"MEX","MX","Mexico",1990,4,4
+"MEX","MX","Mexico",1991,3,3
+"MEX","MX","Mexico",1992,2,2
+"MEX","MX","Mexico",1993,1,1
+"MEX","MX","Mexico",1994,0,0
+"MEX","MX","Mexico",1995,5,5
+"MEX","MX","Mexico",1996,4,4
+"MEX","MX","Mexico",1997,3,3
+"MEX","MX","Mexico",1998,2,2
+"MEX","MX","Mexico",1999,1,1
+"MEX","MX","Mexico",2000,0,0
+"MEX","MX","Mexico",2001,5,5
+"MEX","MX","Mexico",2002,4,4
+"MEX","MX","Mexico",2003,3,3
+"MEX","MX","Mexico",2004,2,2
+"MEX","MX","Mexico",2005,1,1
+"MEX","MX","Mexico",2006,0,0
+"MEX","MX","Mexico",2007,5,5
+"MEX","MX","Mexico",2008,4,4
+"MEX","MX","Mexico",2009,3,3
+"MEX","MX","Mexico",2010,2,2
+"MEX","MX","Mexico",2011,1,1
+"MEX","MX","Mexico",2012,0,0
+"MEX","MX","Mexico",2013,5,5
 "NLD","NL","Netherlands",1975,1,1
 "NLD","NL","Netherlands",1976,0,0
 "NLD","NL","Netherlands",1977,0,0
@@ -915,7 +961,7 @@
 "NLD","NL","Netherlands",2010,0,0
 "NLD","NL","Netherlands",2011,3,3
 "NLD","NL","Netherlands",2012,2,0
-"NLD","NL","Netherlands",2013,NA,3
+"NLD","NL","Netherlands",2013,3,3
 "NZL","NZ","New Zealand",1975,0,0
 "NZL","NZ","New Zealand",1976,2,2
 "NZL","NZ","New Zealand",1977,1,1
@@ -954,6 +1000,7 @@
 "NZL","NZ","New Zealand",2010,1,1
 "NZL","NZ","New Zealand",2011,0,0
 "NZL","NZ","New Zealand",2012,2,2
+"NZL","NZ","New Zealand",2013,1,1
 "NOR","NO","Norway",1975,2,2
 "NOR","NO","Norway",1976,1,1
 "NOR","NO","Norway",1977,0,0
@@ -992,6 +1039,7 @@
 "NOR","NO","Norway",2010,3,3
 "NOR","NO","Norway",2011,2,2
 "NOR","NO","Norway",2012,1,1
+"NOR","NO","Norway",2013,0,0
 "POL","PL","Poland",1990,0,0
 "POL","PL","Poland",1991,4,4
 "POL","PL","Poland",1992,3,3
@@ -1015,6 +1063,7 @@
 "POL","PL","Poland",2010,0,0
 "POL","PL","Poland",2011,4,4
 "POL","PL","Poland",2012,3,3
+"POL","PL","Poland",2013,2,2
 "PRT","PT","Portugal",1976,0,0
 "PRT","PT","Portugal",1977,4,3
 "PRT","PT","Portugal",1978,3,2
@@ -1052,7 +1101,7 @@
 "PRT","PT","Portugal",2010,3,3
 "PRT","PT","Portugal",2011,2,0
 "PRT","PT","Portugal",2012,3,3
-"PRT","PT","Portugal",2013,NA,2
+"PRT","PT","Portugal",2013,2,2
 "ROM","RO","Romania",1975,0,0
 "ROM","RO","Romania",1976,3,3
 "ROM","RO","Romania",1977,2,2
@@ -1090,7 +1139,7 @@
 "ROM","RO","Romania",2010,4,2
 "ROM","RO","Romania",2011,3,1
 "ROM","RO","Romania",2012,2,0
-"ROM","RO","Romania",2013,NA,3
+"ROM","RO","Romania",2013,1,3
 "SVK","SK","Slovakia",1993,3,3
 "SVK","SK","Slovakia",1994,0,0
 "SVK","SK","Slovakia",1995,3,3
@@ -1111,7 +1160,7 @@
 "SVK","SK","Slovakia",2010,0,0
 "SVK","SK","Slovakia",2011,3,3
 "SVK","SK","Slovakia",2012,2,0
-"SVK","SK","Slovakia",2013,NA,3
+"SVK","SK","Slovakia",2013,3,3
 "SVN","SI","Slovenia",1992,0,0
 "SVN","SI","Slovenia",1993,4,3
 "SVN","SI","Slovenia",1994,3,2
@@ -1133,7 +1182,7 @@
 "SVN","SI","Slovenia",2010,3,2
 "SVN","SI","Slovenia",2011,2,0
 "SVN","SI","Slovenia",2012,4,3
-"SVN","SI","Slovenia",2013,NA,2
+"SVN","SI","Slovenia",2013,3,2
 "ESP","ES","Spain",1978,3,3
 "ESP","ES","Spain",1979,0,0
 "ESP","ES","Spain",1980,3,3
@@ -1169,7 +1218,7 @@
 "ESP","ES","Spain",2010,2,2
 "ESP","ES","Spain",2011,1,0
 "ESP","ES","Spain",2012,3,3
-"ESP","ES","Spain",2013,NA,2
+"ESP","ES","Spain",2013,2,2
 "SWE","SE","Sweden",1975,1,1
 "SWE","SE","Sweden",1976,0,0
 "SWE","SE","Sweden",1977,2,2
@@ -1208,6 +1257,7 @@
 "SWE","SE","Sweden",2010,0,0
 "SWE","SE","Sweden",2011,3,3
 "SWE","SE","Sweden",2012,2,2
+"SWE","SE","Sweden",2013,1,1
 "CHE","CH","Switzerland",1975,0,0
 "CHE","CH","Switzerland",1976,3,3
 "CHE","CH","Switzerland",1977,2,2
@@ -1246,6 +1296,7 @@
 "CHE","CH","Switzerland",2010,1,1
 "CHE","CH","Switzerland",2011,0,0
 "CHE","CH","Switzerland",2012,3,3
+"CHE","CH","Switzerland",2013,2,2
 "GBR","GB","United Kingdom",1975,4,4
 "GBR","GB","United Kingdom",1976,3,3
 "GBR","GB","United Kingdom",1977,2,2
@@ -1284,7 +1335,7 @@
 "GBR","GB","United Kingdom",2010,0,0
 "GBR","GB","United Kingdom",2011,4,4
 "GBR","GB","United Kingdom",2012,3,3
-"GBR","GB","United Kingdom",2013,NA,2
+"GBR","GB","United Kingdom",2013,2,2
 "USA","US","United States",1975,1,1
 "USA","US","United States",1976,0,0
 "USA","US","United States",1977,3,3
@@ -1323,3 +1374,4 @@
 "USA","US","United States",2010,2,2
 "USA","US","United States",2011,1,1
 "USA","US","United States",2012,0,0
+"USA","US","United States",2013,3,3

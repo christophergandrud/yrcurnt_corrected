@@ -2,7 +2,7 @@
 # Correct DPI yrcurnt years to elections variable to reflect government, not
 # executive elections (Europe + OECD)
 # Christopher Gandrud
-# 27 November 2015
+# 22 November 2016
 # MIT License
 #################
 
@@ -10,6 +10,7 @@
 library(psData)
 library(DataCombine)
 library(countrycode)
+library(dplyr)
 library(rio)
 
 # Set working directory, change as needed.
@@ -19,14 +20,19 @@ setwd('/git_repositories/yrcurnt_corrected/')
 YearsLeft <- DpiGet(vars = c('yrcurnt'), duplicates = 'drop', fromLast = TRUE)
 # YearsLeft$iso2c[YearsLeft$iso2c == 'GB'] <- 'UK'
 
+YearsLeft$country <- countrycode(YearsLeft$iso2c, origin = 'iso2c', 
+                                 destination = 'country.name') 
+
+YearsLeft <- YearsLeft %>% select(iso2c, country, year, yrcurnt)
+
 # Keep only European 28 + select OECD
 keep <- c("Australia", "Austria", "Belgium", "Bulgaria", "Canada", 
           "Croatia", "Cyprus", "Czech Republic", "Denmark", "Estonia", 
           "Finland", "France", "Germany", "Greece", "Hungary", 
           "Iceland", "Ireland", "Israel", "Italy", "Japan",
           "Korea, Republic of", "Latvia", "Lithuania", "Luxembourg", "Malta", 
-          "Netherlands", "New Zealand", "Norway", "Poland", "Portugal", 
-          "Romania", "Slovakia", "Slovenia", "Spain", "Sweden", 
+          "Mexico", "Netherlands", "New Zealand", "Norway", "Poland", 
+          "Portugal", "Romania", "Slovakia", "Slovenia", "Spain", "Sweden", 
           "Switzerland", "United Kingdom", "United States")
 
 YearsLeft <- YearsLeft[YearsLeft$country %in% keep, ]
@@ -64,6 +70,10 @@ comb$iso2c <- countrycode(comb$country, origin = 'country.name',
                                    destination = 'iso2c')
 
 comb <- DropNA(comb, 'yrcurnt_corrected')
+
+
+######### Drop post-2013 -- These have not been checked -- To-do ###############
+comb <- subset(comb, year <= 2013)
 
 # Save
 export(comb, 'data/yrcurnt_original_corrected.csv')

@@ -5,10 +5,13 @@ Christopher Gandrud
 
 Corrects errors and inconsistencies in the
 [Database of Political Institution's](http://go.worldbank.org/2EAGGLRZ40) (2013)
-years to election (**yrcurnt**) variable.
+years to election (**yrcurnt**) variable. 
 
 The corrected variable is called **yrcurnt_corrected**. It is currently updated
 for EU 28 countries and most other OECD countries.
+
+**Update**: The most recent version data available in this repository now updates the 2015 version 
+of the DPI up to 2013. More work is needed to fully correct the 2015 version.
 
 ## Motivation
 
